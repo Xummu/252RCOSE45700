@@ -1,0 +1,2301 @@
+fileFormatVersion: 2
+guid: 497c238e45c465644907f12180438ccf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7257971962621617260
+    second: jjang6_0
+  - first:
+      213: -312486771180468235
+    second: jjang6_1
+  - first:
+      213: -2337384562635294338
+    second: jjang6_2
+  - first:
+      213: -7367555530259991289
+    second: jjang6_3
+  - first:
+      213: 1364838979841657149
+    second: jjang6_4
+  - first:
+      213: -933993781574091864
+    second: jjang6_5
+  - first:
+      213: -3076832322071280142
+    second: jjang6_6
+  - first:
+      213: 2937375560361705904
+    second: jjang6_7
+  - first:
+      213: -8609504835542811629
+    second: jjang6_8
+  - first:
+      213: -1891328537259079728
+    second: jjang6_9
+  - first:
+      213: 6894307888516824521
+    second: jjang6_10
+  - first:
+      213: 1644250928149981977
+    second: jjang6_11
+  - first:
+      213: 2976367686017301498
+    second: jjang6_12
+  - first:
+      213: -4872858616781023866
+    second: jjang6_13
+  - first:
+      213: -6106952263773945993
+    second: jjang6_14
+  - first:
+      213: 6678155128170854688
+    second: jjang6_15
+  - first:
+      213: 2671507581409287930
+    second: jjang6_16
+  - first:
+      213: 8136049904541412621
+    second: jjang6_17
+  - first:
+      213: 1261119374460391038
+    second: jjang6_18
+  - first:
+      213: 7609050303666928069
+    second: jjang6_19
+  - first:
+      213: 3077225216339644117
+    second: jjang6_20
+  - first:
+      213: -4234532138632040368
+    second: jjang6_21
+  - first:
+      213: 4594998714535320297
+    second: jjang6_22
+  - first:
+      213: -1550464392934478340
+    second: jjang6_23
+  - first:
+      213: -4387008138354468261
+    second: jjang6_24
+  - first:
+      213: 6922084187514394820
+    second: jjang6_25
+  - first:
+      213: -9190915551444347217
+    second: jjang6_26
+  - first:
+      213: -4611865809453322498
+    second: jjang6_27
+  - first:
+      213: 2313044149231965635
+    second: jjang6_28
+  - first:
+      213: 7681410421216632910
+    second: jjang6_29
+  - first:
+      213: 123764970538238805
+    second: jjang6_30
+  - first:
+      213: 7100258151674197621
+    second: jjang6_31
+  - first:
+      213: -5126740316413241142
+    second: jjang6_32
+  - first:
+      213: -3120588636910471424
+    second: jjang6_33
+  - first:
+      213: 5812837257377841132
+    second: jjang6_34
+  - first:
+      213: -7519517813292849507
+    second: jjang6_35
+  - first:
+      213: 7652319456137959876
+    second: jjang6_36
+  - first:
+      213: -6046111570710922573
+    second: jjang6_37
+  - first:
+      213: 7510264238522957498
+    second: jjang6_38
+  - first:
+      213: -2470094338364616141
+    second: jjang6_39
+  - first:
+      213: -6257685299795452074
+    second: jjang6_40
+  - first:
+      213: 5672330163379216610
+    second: jjang6_41
+  - first:
+      213: 7155016992347587394
+    second: jjang6_42
+  - first:
+      213: -4962348346096999084
+    second: jjang6_43
+  - first:
+      213: -4425986818704039011
+    second: jjang6_44
+  - first:
+      213: 6559625875760696389
+    second: jjang6_45
+  - first:
+      213: -4282297844814763326
+    second: jjang6_46
+  - first:
+      213: 9005262840193305123
+    second: jjang6_47
+  - first:
+      213: 3242031184890596998
+    second: jjang6_48
+  - first:
+      213: 3821236526448040129
+    second: jjang6_49
+  - first:
+      213: -4443587070548429896
+    second: jjang6_50
+  - first:
+      213: -8071476823738401963
+    second: jjang6_51
+  - first:
+      213: 6520793968058326427
+    second: jjang6_52
+  - first:
+      213: -3017248243186307200
+    second: jjang6_53
+  - first:
+      213: -2840274900445970974
+    second: jjang6_54
+  - first:
+      213: -7634784499918214473
+    second: jjang6_55
+  - first:
+      213: 473113697535411141
+    second: jjang6_56
+  - first:
+      213: -2683991341383513190
+    second: jjang6_57
+  - first:
+      213: -4114450987336368863
+    second: jjang6_58
+  - first:
+      213: -1020954994213903019
+    second: jjang6_59
+  - first:
+      213: -9161737569636188245
+    second: jjang6_60
+  - first:
+      213: 5162074045391238146
+    second: jjang6_61
+  - first:
+      213: -8844221987122766565
+    second: jjang6_62
+  - first:
+      213: -1369058044408403789
+    second: jjang6_63
+  - first:
+      213: 8337263703797415534
+    second: jjang6_64
+  - first:
+      213: -4247796374899302955
+    second: jjang6_65
+  - first:
+      213: -4969998864291538979
+    second: jjang6_66
+  - first:
+      213: -8177093299683078237
+    second: jjang6_67
+  - first:
+      213: -8872159030439599653
+    second: jjang6_68
+  - first:
+      213: 6864630765363388580
+    second: jjang6_69
+  - first:
+      213: -7495639288529667240
+    second: jjang6_70
+  - first:
+      213: 8706539230087901617
+    second: jjang6_71
+  - first:
+      213: -3409100215740725046
+    second: jjang6_72
+  - first:
+      213: -3513436832474322946
+    second: jjang6_73
+  - first:
+      213: 637633966175230578
+    second: jjang6_74
+  - first:
+      213: 667293466239688647
+    second: jjang6_75
+  - first:
+      213: -3988727853172900570
+    second: jjang6_76
+  - first:
+      213: -6652388764869504490
+    second: jjang6_77
+  - first:
+      213: 5531450708253543313
+    second: jjang6_78
+  - first:
+      213: 5602631873971915998
+    second: jjang6_79
+  - first:
+      213: 6699213155762010449
+    second: jjang6_80
+  - first:
+      213: -2978917557419594446
+    second: jjang6_81
+  - first:
+      213: -11565750925370382
+    second: jjang6_82
+  - first:
+      213: 8643485187330169360
+    second: jjang6_83
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jjang6_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 522
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b913254f0864b90800000000000000
+      internalID: -7257971962621617260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 522
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f787ceefe2d9abf0800000000000000
+      internalID: -312486771180468235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 522
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7934a0df11ff8fd0800000000000000
+      internalID: -2337384562635294338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 447
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70573ebb74f21c990800000000000000
+      internalID: -7367555530259991289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_4
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 522
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39811922d1e0f210800000000000000
+      internalID: 1364838979841657149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 522
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab3adaaa99c903f0800000000000000
+      internalID: -933993781574091864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_6
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 522
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f540890e45ec45d0800000000000000
+      internalID: -3076832322071280142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_7
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 522
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1064f5287a3c820800000000000000
+      internalID: 2937375560361705904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_8
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 447
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c767997f4e48880800000000000000
+      internalID: -8609504835542811629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_9
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 522
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d70d1f47b6a0c5e0800000000000000
+      internalID: -1891328537259079728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_10
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 522
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdf73b3f708daf50800000000000000
+      internalID: 6894307888516824521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_11
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 522
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b6cfde18d81d610800000000000000
+      internalID: 1644250928149981977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 447
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb330614ae2e4920800000000000000
+      internalID: 2976367686017301498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 447
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685d012d7e0206cb0800000000000000
+      internalID: -4872858616781023866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 455
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f7c79a54fbf3ba0800000000000000
+      internalID: -6106952263773945993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_15
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 447
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029b399e4b29dac50800000000000000
+      internalID: 6678155128170854688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_16
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 447
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afed9a4bdf9131520800000000000000
+      internalID: 2671507581409287930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_17
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 455
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0daa03184e09e070800000000000000
+      internalID: 8136049904541412621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_18
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 447
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e031ea365608110800000000000000
+      internalID: 1261119374460391038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_19
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 447
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9352ccfe6c89960800000000000000
+      internalID: 7609050303666928069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 373
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de8cc9c70084ba20800000000000000
+      internalID: 3077225216339644117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 300
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050bcd6947beb35c0800000000000000
+      internalID: -4234532138632040368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_22
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 373
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea114b4cf6b4cf30800000000000000
+      internalID: 4594998714535320297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_23
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 300
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdaf3e69d4ab7ae0800000000000000
+      internalID: -1550464392934478340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_24
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 373
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a52ae67573e13c0800000000000000
+      internalID: -4387008138354468261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_25
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 300
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8d42ec4ee201060800000000000000
+      internalID: 6922084187514394820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_26
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 373
+        width: 51
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6db83600f437080800000000000000
+      internalID: -9190915551444347217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 373
+        width: 51
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efee3c32b7c5fffb0800000000000000
+      internalID: -4611865809453322498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_28
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 300
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c554c01665991020800000000000000
+      internalID: 2313044149231965635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_29
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 373
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40e99a841ad99a60800000000000000
+      internalID: 7681410421216632910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_30
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 373
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5538190c593b7b100800000000000000
+      internalID: 123764970538238805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_31
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 300
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576bc109b2f298260800000000000000
+      internalID: 7100258151674197621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_32
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 373
+        width: 51
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8d38848d82ad8b0800000000000000
+      internalID: -5126740316413241142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_33
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 373
+        width: 51
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007b4d61b2171b4d0800000000000000
+      internalID: -3120588636910471424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_34
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 300
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef792710b85ba050800000000000000
+      internalID: 5812837257377841132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_35
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 373
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d962570936e45a790800000000000000
+      internalID: -7519517813292849507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_36
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 300
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9d9ea6000823a60800000000000000
+      internalID: 7652319456137959876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_37
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 373
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba75636f85e71ca0800000000000000
+      internalID: -6046111570710922573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_38
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 300
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abefa7aa881d93860800000000000000
+      internalID: 7510264238522957498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_39
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 373
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332d210594678bdd0800000000000000
+      internalID: -2470094338364616141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 300
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f128ddf5c3829a0800000000000000
+      internalID: -6257685299795452074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_41
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 226
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0a3f4fa3a28be40800000000000000
+      internalID: 5672330163379216610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_42
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 226
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24303ceab0abb4360800000000000000
+      internalID: 7155016992347587394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_43
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 226
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455242b8872322bb0800000000000000
+      internalID: -4962348346096999084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_44
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 226
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93a592307cb392c0800000000000000
+      internalID: -4425986818704039011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_45
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 300
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c4d28caf8780b50800000000000000
+      internalID: 6559625875760696389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_46
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 226
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca25697cc83294c0800000000000000
+      internalID: -4282297844814763326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_47
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 226
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a4fba57de19fc70800000000000000
+      internalID: 9005262840193305123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_48
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 300
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e84268f220efc20800000000000000
+      internalID: 3242031184890596998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_49
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 226
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8dea10062c70530800000000000000
+      internalID: 3821236526448040129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_50
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 226
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3317b3a153552c0800000000000000
+      internalID: -4443587070548429896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_51
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 226
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b3644e79a5cff80800000000000000
+      internalID: -8071476823738401963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_52
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 226
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d50a7b0938e7a50800000000000000
+      internalID: 6520793968058326427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_53
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 300
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f65b975b49026d0800000000000000
+      internalID: -3017248243186307200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_54
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 289
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edb576c6015598d0800000000000000
+      internalID: -2840274900445970974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_55
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 289
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba67b9b2fbcb0690800000000000000
+      internalID: -7634784499918214473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_56
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 149
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c348f7b666d09600800000000000000
+      internalID: 473113697535411141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_57
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 210
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b8c9c681c80cad0800000000000000
+      internalID: -2683991341383513190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_58
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 149
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d7f0650a886e6c0800000000000000
+      internalID: -4114450987336368863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_59
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 208
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555283e87d6d4d1f0800000000000000
+      internalID: -1020954994213903019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_60
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 149
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baffb7ca838fad080800000000000000
+      internalID: -9161737569636188245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_61
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 206
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204fec39efe53a740800000000000000
+      internalID: 5162074045391238146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_62
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 149
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d19de16f2034580800000000000000
+      internalID: -8844221987122766565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_63
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 149
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8652256f0200de0800000000000000
+      internalID: -1369058044408403789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_64
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 206
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e3a977a29e3b370800000000000000
+      internalID: 8337263703797415534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_65
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 149
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd5febe3bbcc05c0800000000000000
+      internalID: -4247796374899302955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_66
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 208
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7dec77d54070bb0800000000000000
+      internalID: -4969998864291538979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_67
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 149
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afc921d7f0258e80800000000000000
+      internalID: -8177093299683078237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_68
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 210
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1afd75e52cfd480800000000000000
+      internalID: -8872159030439599653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_69
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 149
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0e3bb8f41144f50800000000000000
+      internalID: 6864630765363388580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 75
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b3abad7c32af790800000000000000
+      internalID: -7495639288529667240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_71
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 75
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b17460fc47d3d870800000000000000
+      internalID: 8706539230087901617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_72
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8011d7a6170b0d0800000000000000
+      internalID: -3409100215740725046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_73
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 75
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7289bd0d3cd3fc0800000000000000
+      internalID: -3513436832474322946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_74
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 75
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a1992c6b459d800800000000000000
+      internalID: 637633966175230578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_75
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 75
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfd7204fd3b24900800000000000000
+      internalID: 667293466239688647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_76
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 75
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d3ce5962135a8c0800000000000000
+      internalID: -3988727853172900570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_77
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 75
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612572a0aa7fda3a0800000000000000
+      internalID: -6652388764869504490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_78
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 75
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b090ebc19a3cc40800000000000000
+      internalID: 5531450708253543313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_79
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc806f510c80cd40800000000000000
+      internalID: 5602631873971915998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_80
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 75
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15971d70fd268fc50800000000000000
+      internalID: 6699213155762010449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_81
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 75
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23da4d6b342c8a6d0800000000000000
+      internalID: -2978917557419594446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_82
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb5884c209e6dff0800000000000000
+      internalID: -11565750925370382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jjang6_83
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a5a249bf3d3f770800000000000000
+      internalID: 8643485187330169360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jjang6_0: -7257971962621617260
+      jjang6_1: -312486771180468235
+      jjang6_10: 6894307888516824521
+      jjang6_11: 1644250928149981977
+      jjang6_12: 2976367686017301498
+      jjang6_13: -4872858616781023866
+      jjang6_14: -6106952263773945993
+      jjang6_15: 6678155128170854688
+      jjang6_16: 2671507581409287930
+      jjang6_17: 8136049904541412621
+      jjang6_18: 1261119374460391038
+      jjang6_19: 7609050303666928069
+      jjang6_2: -2337384562635294338
+      jjang6_20: 3077225216339644117
+      jjang6_21: -4234532138632040368
+      jjang6_22: 4594998714535320297
+      jjang6_23: -1550464392934478340
+      jjang6_24: -4387008138354468261
+      jjang6_25: 6922084187514394820
+      jjang6_26: -9190915551444347217
+      jjang6_27: -4611865809453322498
+      jjang6_28: 2313044149231965635
+      jjang6_29: 7681410421216632910
+      jjang6_3: -7367555530259991289
+      jjang6_30: 123764970538238805
+      jjang6_31: 7100258151674197621
+      jjang6_32: -5126740316413241142
+      jjang6_33: -3120588636910471424
+      jjang6_34: 5812837257377841132
+      jjang6_35: -7519517813292849507
+      jjang6_36: 7652319456137959876
+      jjang6_37: -6046111570710922573
+      jjang6_38: 7510264238522957498
+      jjang6_39: -2470094338364616141
+      jjang6_4: 1364838979841657149
+      jjang6_40: -6257685299795452074
+      jjang6_41: 5672330163379216610
+      jjang6_42: 7155016992347587394
+      jjang6_43: -4962348346096999084
+      jjang6_44: -4425986818704039011
+      jjang6_45: 6559625875760696389
+      jjang6_46: -4282297844814763326
+      jjang6_47: 9005262840193305123
+      jjang6_48: 3242031184890596998
+      jjang6_49: 3821236526448040129
+      jjang6_5: -933993781574091864
+      jjang6_50: -4443587070548429896
+      jjang6_51: -8071476823738401963
+      jjang6_52: 6520793968058326427
+      jjang6_53: -3017248243186307200
+      jjang6_54: -2840274900445970974
+      jjang6_55: -7634784499918214473
+      jjang6_56: 473113697535411141
+      jjang6_57: -2683991341383513190
+      jjang6_58: -4114450987336368863
+      jjang6_59: -1020954994213903019
+      jjang6_6: -3076832322071280142
+      jjang6_60: -9161737569636188245
+      jjang6_61: 5162074045391238146
+      jjang6_62: -8844221987122766565
+      jjang6_63: -1369058044408403789
+      jjang6_64: 8337263703797415534
+      jjang6_65: -4247796374899302955
+      jjang6_66: -4969998864291538979
+      jjang6_67: -8177093299683078237
+      jjang6_68: -8872159030439599653
+      jjang6_69: 6864630765363388580
+      jjang6_7: 2937375560361705904
+      jjang6_70: -7495639288529667240
+      jjang6_71: 8706539230087901617
+      jjang6_72: -3409100215740725046
+      jjang6_73: -3513436832474322946
+      jjang6_74: 637633966175230578
+      jjang6_75: 667293466239688647
+      jjang6_76: -3988727853172900570
+      jjang6_77: -6652388764869504490
+      jjang6_78: 5531450708253543313
+      jjang6_79: 5602631873971915998
+      jjang6_8: -8609504835542811629
+      jjang6_80: 6699213155762010449
+      jjang6_81: -2978917557419594446
+      jjang6_82: -11565750925370382
+      jjang6_83: 8643485187330169360
+      jjang6_9: -1891328537259079728
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

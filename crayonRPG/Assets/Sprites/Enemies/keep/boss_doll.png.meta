@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 969e79fb86155814a9b5abe7a32f98d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1526178877662580990
+    second: boss_doll_0
+  - first:
+      213: 2467167377919368375
+    second: boss_doll_1
+  - first:
+      213: 4965943893007279890
+    second: boss_doll_2
+  - first:
+      213: -9038880819854454921
+    second: boss_doll_3
+  - first:
+      213: 6271273453005051852
+    second: boss_doll_4
+  - first:
+      213: 2419131248111076422
+    second: boss_doll_5
+  - first:
+      213: 7164081177206123332
+    second: boss_doll_6
+  - first:
+      213: 690474274357952485
+    second: boss_doll_7
+  - first:
+      213: 7697201159985805936
+    second: boss_doll_8
+  - first:
+      213: -5683839394352452388
+    second: boss_doll_9
+  - first:
+      213: 1590615656779648151
+    second: boss_doll_10
+  - first:
+      213: 2590251139805809098
+    second: boss_doll_11
+  - first:
+      213: -224178835259616334
+    second: boss_doll_12
+  - first:
+      213: -3486149095891791381
+    second: boss_doll_13
+  - first:
+      213: -7776142162476959345
+    second: boss_doll_14
+  - first:
+      213: 2332302908673810022
+    second: boss_doll_15
+  - first:
+      213: -379139094943713229
+    second: boss_doll_16
+  - first:
+      213: -405581777396564673
+    second: boss_doll_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss_doll_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 222
+        width: 61
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fa735956ce1dae0800000000000000
+      internalID: -1526178877662580990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_doll_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 120
+        width: 66
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcd05a98a32d3220800000000000000
+      internalID: 2467167377919368375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_doll_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 222
+        width: 63
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2172835f8a39ae440800000000000000
+      internalID: 4965943893007279890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_doll_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 120
+        width: 63
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fcb7dc8c17f8280800000000000000
+      internalID: -9038880819854454921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_doll_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 222
+        width: 62
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc714b79af9080750800000000000000
+      internalID: 6271273453005051852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_doll_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 222
+        width: 62
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64445b49d0b729120800000000000000
+      internalID: 2419131248111076422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_doll_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 120
+        width: 63
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bee6dafddeb6360800000000000000
+      internalID: 7164081177206123332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_doll_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 222
+        width: 63
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efb6a9b1be059900800000000000000
+      internalID: 690474274357952485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_doll_8
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 120
+        width: 63
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07abda96ca3f1da60800000000000000
+      internalID: 7697201159985805936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_doll_9
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 222
+        width: 62
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc20436f22fe11b0800000000000000
+      internalID: -5683839394352452388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_doll_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 120
+        width: 63
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c868c2380031610800000000000000
+      internalID: 1590615656779648151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_doll_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1
+        width: 62
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac90d2b10bb62f320800000000000000
+      internalID: 2590251139805809098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_doll_12
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1
+        width: 62
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3903e798e83ecf0800000000000000
+      internalID: -224178835259616334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_doll_13
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 120
+        width: 63
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be112512ed5be9fc0800000000000000
+      internalID: -3486149095891791381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_doll_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1
+        width: 63
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f897f9a27e7951490800000000000000
+      internalID: -7776142162476959345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_doll_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1
+        width: 62
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66edc1c63210e5020800000000000000
+      internalID: 2332302908673810022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_doll_16
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1
+        width: 62
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338ba6d70070dbaf0800000000000000
+      internalID: -379139094943713229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_doll_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1
+        width: 63
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3df7e6b5851f5af0800000000000000
+      internalID: -405581777396564673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boss_doll_0: -1526178877662580990
+      boss_doll_1: 2467167377919368375
+      boss_doll_10: 1590615656779648151
+      boss_doll_11: 2590251139805809098
+      boss_doll_12: -224178835259616334
+      boss_doll_13: -3486149095891791381
+      boss_doll_14: -7776142162476959345
+      boss_doll_15: 2332302908673810022
+      boss_doll_16: -379139094943713229
+      boss_doll_17: -405581777396564673
+      boss_doll_2: 4965943893007279890
+      boss_doll_3: -9038880819854454921
+      boss_doll_4: 6271273453005051852
+      boss_doll_5: 2419131248111076422
+      boss_doll_6: 7164081177206123332
+      boss_doll_7: 690474274357952485
+      boss_doll_8: 7697201159985805936
+      boss_doll_9: -5683839394352452388
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 31684b3e7e785f844b225598e8878352
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8676127841805545596
+    second: Chisol_R_0
+  - first:
+      213: 6960233255749702252
+    second: Chisol_R_1
+  - first:
+      213: 746726946479628575
+    second: Chisol_R_2
+  - first:
+      213: -4128789362259714974
+    second: Chisol_R_3
+  - first:
+      213: -6088329026826885831
+    second: Chisol_R_4
+  - first:
+      213: 6251516631878714618
+    second: Chisol_R_5
+  - first:
+      213: 5862644479225815285
+    second: Chisol_R_6
+  - first:
+      213: -7180118626294901928
+    second: Chisol_R_7
+  - first:
+      213: 6873004877198805133
+    second: Chisol_R_8
+  - first:
+      213: -7881884614468544374
+    second: Chisol_R_9
+  - first:
+      213: 2820859059269552414
+    second: Chisol_R_10
+  - first:
+      213: -8605225815440850381
+    second: Chisol_R_11
+  - first:
+      213: -3830547540660233854
+    second: Chisol_R_12
+  - first:
+      213: 7523529053599563187
+    second: Chisol_R_13
+  - first:
+      213: -6594640531017569343
+    second: Chisol_R_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chisol_R_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 257
+        width: 45
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7032b4dd4cc76870800000000000000
+      internalID: 8676127841805545596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chisol_R_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 257
+        width: 41
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6252dae447b79060800000000000000
+      internalID: 6960233255749702252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chisol_R_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 269
+        width: 53
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1161259338ec5a00800000000000000
+      internalID: 746726946479628575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chisol_R_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 257
+        width: 59
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c191643f793b6c0800000000000000
+      internalID: -4128789362259714974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chisol_R_4
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 270
+        width: 64
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935a848e109e18ba0800000000000000
+      internalID: -6088329026826885831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chisol_R_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 132
+        width: 77
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4c3963149d1c650800000000000000
+      internalID: 6251516631878714618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chisol_R_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 132
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0e8ac971c4c5150800000000000000
+      internalID: 5862644479225815285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chisol_R_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1
+        width: 49
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853d68ab6281b5c90800000000000000
+      internalID: -7180118626294901928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chisol_R_8
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 132
+        width: 74
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8846f46581d16f50800000000000000
+      internalID: 6873004877198805133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chisol_R_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 132
+        width: 43
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a885cf104bbed9290800000000000000
+      internalID: -7881884614468544374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chisol_R_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 50
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19443d6e54b52720800000000000000
+      internalID: 2820859059269552414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chisol_R_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1
+        width: 50
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33280aa96b8149880800000000000000
+      internalID: -8605225815440850381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chisol_R_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1
+        width: 53
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28953bf8e4927dac0800000000000000
+      internalID: -3830547540660233854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chisol_R_13
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1
+        width: 48
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdf12910d1f86860800000000000000
+      internalID: 7523529053599563187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chisol_R_14
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1
+        width: 48
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbed4f70612b74a0800000000000000
+      internalID: -6594640531017569343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Chisol_R_0: 8676127841805545596
+      Chisol_R_1: 6960233255749702252
+      Chisol_R_10: 2820859059269552414
+      Chisol_R_11: -8605225815440850381
+      Chisol_R_12: -3830547540660233854
+      Chisol_R_13: 7523529053599563187
+      Chisol_R_14: -6594640531017569343
+      Chisol_R_2: 746726946479628575
+      Chisol_R_3: -4128789362259714974
+      Chisol_R_4: -6088329026826885831
+      Chisol_R_5: 6251516631878714618
+      Chisol_R_6: 5862644479225815285
+      Chisol_R_7: -7180118626294901928
+      Chisol_R_8: 6873004877198805133
+      Chisol_R_9: -7881884614468544374
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

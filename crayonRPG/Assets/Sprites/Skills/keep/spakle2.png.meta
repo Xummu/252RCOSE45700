@@ -1,0 +1,2821 @@
+fileFormatVersion: 2
+guid: 77651f717d2798d4fbbf537056bd95ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6861576822511251783
+    second: spakle2_0
+  - first:
+      213: 6231908081854286187
+    second: spakle2_1
+  - first:
+      213: -4876777900841370256
+    second: spakle2_2
+  - first:
+      213: 8512034646850565071
+    second: spakle2_3
+  - first:
+      213: 8579784827246081093
+    second: spakle2_4
+  - first:
+      213: -4743513536827930729
+    second: spakle2_5
+  - first:
+      213: -3107864408552286719
+    second: spakle2_6
+  - first:
+      213: 6963560354102900314
+    second: spakle2_7
+  - first:
+      213: 2726185639623680200
+    second: spakle2_8
+  - first:
+      213: 2062882017559502404
+    second: spakle2_9
+  - first:
+      213: 357931119408863546
+    second: spakle2_10
+  - first:
+      213: 437293834854720990
+    second: spakle2_11
+  - first:
+      213: -8546118471376886351
+    second: spakle2_12
+  - first:
+      213: 3439071531270746585
+    second: spakle2_13
+  - first:
+      213: 975867671680129279
+    second: spakle2_14
+  - first:
+      213: 2963571815434789748
+    second: spakle2_15
+  - first:
+      213: 7509901691897281131
+    second: spakle2_16
+  - first:
+      213: 5736376144525091775
+    second: spakle2_17
+  - first:
+      213: 2324759994418425503
+    second: spakle2_18
+  - first:
+      213: -773721353771820437
+    second: spakle2_19
+  - first:
+      213: -3932411660684026293
+    second: spakle2_20
+  - first:
+      213: 6001352884475598476
+    second: spakle2_21
+  - first:
+      213: 3192003191642891561
+    second: spakle2_22
+  - first:
+      213: 3697450413980899634
+    second: spakle2_23
+  - first:
+      213: 2901668059621877457
+    second: spakle2_24
+  - first:
+      213: 4475506324045778558
+    second: spakle2_25
+  - first:
+      213: 5570547664432858194
+    second: spakle2_26
+  - first:
+      213: -4095562601559760314
+    second: spakle2_27
+  - first:
+      213: 5808614163918731896
+    second: spakle2_28
+  - first:
+      213: 5307017326174081661
+    second: spakle2_29
+  - first:
+      213: 3361374369854240325
+    second: spakle2_30
+  - first:
+      213: -6657818225580509521
+    second: spakle2_31
+  - first:
+      213: 8107463890183198814
+    second: spakle2_32
+  - first:
+      213: -5302820944427420196
+    second: spakle2_33
+  - first:
+      213: 4158065690437169906
+    second: spakle2_34
+  - first:
+      213: 6522000109228256586
+    second: spakle2_35
+  - first:
+      213: -7080349408054088828
+    second: spakle2_36
+  - first:
+      213: -5811382585640050519
+    second: spakle2_37
+  - first:
+      213: -3426441105819310678
+    second: spakle2_38
+  - first:
+      213: -2633479551455713415
+    second: spakle2_39
+  - first:
+      213: 3002841127915725671
+    second: spakle2_40
+  - first:
+      213: 5295505163854570525
+    second: spakle2_41
+  - first:
+      213: -1248472018618566141
+    second: spakle2_42
+  - first:
+      213: 8193176881710365036
+    second: spakle2_43
+  - first:
+      213: -7312583976740343444
+    second: spakle2_44
+  - first:
+      213: -5031423446730859278
+    second: spakle2_45
+  - first:
+      213: -2241573220464086554
+    second: spakle2_46
+  - first:
+      213: -643415728083809252
+    second: spakle2_47
+  - first:
+      213: -6005553236973055676
+    second: spakle2_48
+  - first:
+      213: -8703398095904739221
+    second: spakle2_49
+  - first:
+      213: -7097522035870738089
+    second: spakle2_50
+  - first:
+      213: 2418706413233972738
+    second: spakle2_51
+  - first:
+      213: -1313276215775778035
+    second: spakle2_52
+  - first:
+      213: -4120181875580625293
+    second: spakle2_53
+  - first:
+      213: -3257615223879102958
+    second: spakle2_54
+  - first:
+      213: 1933529666077063213
+    second: spakle2_55
+  - first:
+      213: -3782498148672806596
+    second: spakle2_56
+  - first:
+      213: 6177151759048559361
+    second: spakle2_57
+  - first:
+      213: 1072616197753852643
+    second: spakle2_58
+  - first:
+      213: -3261157067829175437
+    second: spakle2_59
+  - first:
+      213: -5867879104495142789
+    second: spakle2_60
+  - first:
+      213: -1958912743819630191
+    second: spakle2_61
+  - first:
+      213: 4809682476185857949
+    second: spakle2_62
+  - first:
+      213: -6351713940609489554
+    second: spakle2_63
+  - first:
+      213: 2319296747880976178
+    second: spakle2_64
+  - first:
+      213: -7793865877187713323
+    second: spakle2_65
+  - first:
+      213: 3822168259982624778
+    second: spakle2_66
+  - first:
+      213: 9081045707143067943
+    second: spakle2_67
+  - first:
+      213: 8903001137255772533
+    second: spakle2_68
+  - first:
+      213: 393896442257619299
+    second: spakle2_69
+  - first:
+      213: 2154222634762864666
+    second: spakle2_70
+  - first:
+      213: 4309900444489429323
+    second: spakle2_71
+  - first:
+      213: 6622239635907565511
+    second: spakle2_72
+  - first:
+      213: -2375156710169075903
+    second: spakle2_73
+  - first:
+      213: -5500386322821658293
+    second: spakle2_74
+  - first:
+      213: 6270180303322656162
+    second: spakle2_75
+  - first:
+      213: -7887916095304211147
+    second: spakle2_76
+  - first:
+      213: 7378899186492341870
+    second: spakle2_77
+  - first:
+      213: 3307995629646200307
+    second: spakle2_78
+  - first:
+      213: 3114100295864357780
+    second: spakle2_79
+  - first:
+      213: -3631243358742306627
+    second: spakle2_80
+  - first:
+      213: 2310738729727928815
+    second: spakle2_81
+  - first:
+      213: -5010664623916655223
+    second: spakle2_82
+  - first:
+      213: -7040322801175948520
+    second: spakle2_83
+  - first:
+      213: 1246777763771849489
+    second: spakle2_84
+  - first:
+      213: 1553088136883536554
+    second: spakle2_85
+  - first:
+      213: -3765872795109248522
+    second: spakle2_86
+  - first:
+      213: 4615044551361665993
+    second: spakle2_87
+  - first:
+      213: -4953607818031503160
+    second: spakle2_88
+  - first:
+      213: 4102362650952692023
+    second: spakle2_89
+  - first:
+      213: 3833580787081553753
+    second: spakle2_90
+  - first:
+      213: -498120748536675135
+    second: spakle2_91
+  - first:
+      213: 369018247464837805
+    second: spakle2_92
+  - first:
+      213: -7296757290153738258
+    second: spakle2_93
+  - first:
+      213: 548409049156629998
+    second: spakle2_94
+  - first:
+      213: 5981722575390873016
+    second: spakle2_95
+  - first:
+      213: -8820227942914808968
+    second: spakle2_96
+  - first:
+      213: -3121945206585481042
+    second: spakle2_97
+  - first:
+      213: -375272107318259910
+    second: spakle2_98
+  - first:
+      213: 3756819746514194265
+    second: spakle2_99
+  - first:
+      213: 6835038833063734912
+    second: spakle2_100
+  - first:
+      213: 2712432798835881162
+    second: spakle2_101
+  - first:
+      213: -8435500330921663865
+    second: spakle2_102
+  - first:
+      213: -7559493472889603447
+    second: spakle2_103
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spakle2_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 439
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bec92feb38c6c0a0800000000000000
+      internalID: -6861576822511251783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 452
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b698fc3e16f2c7650800000000000000
+      internalID: 6231908081854286187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 442
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07dffd36654325cb0800000000000000
+      internalID: -4876777900841370256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_3
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 446
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc37851a962d02670800000000000000
+      internalID: 8512034646850565071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_4
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 442
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544f94db7d4811770800000000000000
+      internalID: 8579784827246081093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 431
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7974d1a0297ab2eb0800000000000000
+      internalID: -4743513536827930729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_6
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 438
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106592e59c5aed4d0800000000000000
+      internalID: -3107864408552286719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_7
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 425
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56fb4e5f3983a060800000000000000
+      internalID: 6963560354102900314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 399
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c06a81356b55d520800000000000000
+      internalID: 2726185639623680200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 414
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44edc2ee344d0ac10800000000000000
+      internalID: 2062882017559502404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_10
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 417
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a395c6ae470a7f400800000000000000
+      internalID: 357931119408863546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_11
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 402
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5ebf80d64911600800000000000000
+      internalID: 437293834854720990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 401
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b52d219786166980800000000000000
+      internalID: -8546118471376886351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_13
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 396
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d13d8236590abf20800000000000000
+      internalID: 3439071531270746585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_14
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 403
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8184e1a7afa8d00800000000000000
+      internalID: 975867671680129279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_15
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 402
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473a95d4dd8b02920800000000000000
+      internalID: 2963571815434789748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_16
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 384
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a74a3bcc7883860800000000000000
+      internalID: 7509901691897281131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_17
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 381
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb36178f5b3bb9f40800000000000000
+      internalID: 5736376144525091775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_18
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 383
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e6957d5e4334020800000000000000
+      internalID: 2324759994418425503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_19
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 367
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6adb4137803345f0800000000000000
+      internalID: -773721353771820437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 368
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e135eed644d69c0800000000000000
+      internalID: -3932411660684026293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 355
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c861fe2e6a6194350800000000000000
+      internalID: 6001352884475598476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_22
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 356
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925a9c7adf54c4c20800000000000000
+      internalID: 3192003191642891561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_23
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 342
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239d3f3cf8bff4330800000000000000
+      internalID: 3697450413980899634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_24
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 358
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6ebddf9bbc44820800000000000000
+      internalID: 2901668059621877457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 343
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e43ca1a413c1e30800000000000000
+      internalID: 4475506324045778558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_26
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 336
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25407e6369f8e4d40800000000000000
+      internalID: 5570547664432858194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_27
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 340
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642e7aa5383a927c0800000000000000
+      internalID: -4095562601559760314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_28
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 334
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87abda58ec75c9050800000000000000
+      internalID: 5808614163918731896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_29
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 327
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72137fe32056a940800000000000000
+      internalID: 5307017326174081661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_30
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 321
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546b3481e2006ae20800000000000000
+      internalID: 3361374369854240325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_31
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 314
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6f625399daa93a0800000000000000
+      internalID: -6657818225580509521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_32
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 316
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e581da3f37f738070800000000000000
+      internalID: 8107463890183198814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_33
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 314
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5f6e352789866b0800000000000000
+      internalID: -5302820944427420196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_34
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 310
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f23f3f07ba64b930800000000000000
+      internalID: 4158065690437169906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_35
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 307
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4deb975b8cc28a50800000000000000
+      internalID: 6522000109228256586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_36
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 301
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48be9470abb8dbd90800000000000000
+      internalID: -7080349408054088828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_37
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 309
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0a8011452d95fa0800000000000000
+      internalID: -5811382585640050519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_38
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 284
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5e7d3e7f5d270d0800000000000000
+      internalID: -3426441105819310678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_39
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 281
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9772a3cfc40047bd0800000000000000
+      internalID: -2633479551455713415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_40
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 282
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763a95a981c3ca920800000000000000
+      internalID: 3002841127915725671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_41
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 284
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d146cc5c3e96d7940800000000000000
+      internalID: 5295505163854570525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_42
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 277
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ab93250598caee0800000000000000
+      internalID: -1248472018618566141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_43
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 280
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69f940f6f204b170800000000000000
+      internalID: 8193176881710365036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_44
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 274
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61bd2ced9b748a90800000000000000
+      internalID: -7312583976740343444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_45
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 267
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc1907680bcc2ab0800000000000000
+      internalID: -5031423446730859278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_46
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 249
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1b538480554e0e0800000000000000
+      internalID: -2241573220464086554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_47
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 262
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c4aa4edc02217f0800000000000000
+      internalID: -643415728083809252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_48
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 262
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4411686562df7aca0800000000000000
+      internalID: -6005553236973055676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_49
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 251
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6079ca5b81573780800000000000000
+      internalID: -8703398095904739221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_50
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 237
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759da6a0059808d90800000000000000
+      internalID: -7097522035870738089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_51
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 243
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20625c00ba8f09120800000000000000
+      internalID: 2418706413233972738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_52
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 238
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b27b26d3e46cde0800000000000000
+      internalID: -1313276215775778035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_53
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 243
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e9300f96c22d6c0800000000000000
+      internalID: -4120181875580625293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_54
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 237
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e08c5a630aac2d0800000000000000
+      internalID: -3257615223879102958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_55
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 213
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28f33dacf645da10800000000000000
+      internalID: 1933529666077063213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_56
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 212
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31e8cc69fdd18bc0800000000000000
+      internalID: -3782498148672806596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_57
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 206
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bc4c10cc6a9b550800000000000000
+      internalID: 6177151759048559361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_58
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 220
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2d277bfb2b2ee00800000000000000
+      internalID: 1072616197753852643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_59
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 207
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b9947dcea0eb2d0800000000000000
+      internalID: -3261157067829175437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_60
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 218
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7831a73b0b119ea0800000000000000
+      internalID: -5867879104495142789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_61
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 209
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19925aefc3b80d4e0800000000000000
+      internalID: -1958912743819630191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_62
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 190
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9faa73babc6fb240800000000000000
+      internalID: 4809682476185857949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_63
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 177
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e652317e2dd2ad7a0800000000000000
+      internalID: -6351713940609489554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_64
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 175
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f0a22aa1ccf2020800000000000000
+      internalID: 2319296747880976178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_65
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 191
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d620334740a6d390800000000000000
+      internalID: -7793865877187713323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_66
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 172
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08890028c11b0530800000000000000
+      internalID: 3822168259982624778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_67
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 179
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729395b05fa560e70800000000000000
+      internalID: 9081045707143067943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_68
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 172
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571770d3d50dd8b70800000000000000
+      internalID: 8903001137255772533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_69
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 162
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3693e0f2ab6677500800000000000000
+      internalID: 393896442257619299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_70
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 169
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a188520a21655ed10800000000000000
+      internalID: 2154222634762864666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 156
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4137139e97dfcb30800000000000000
+      internalID: 4309900444489429323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_72
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 157
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c758cbdcdbe6eb50800000000000000
+      internalID: 6622239635907565511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_73
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f9c746e8fb90fd0800000000000000
+      internalID: -2375156710169075903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_74
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 144
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b494ccc18c3baa3b0800000000000000
+      internalID: -5500386322821658293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_75
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 143
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ada239d3c7240750800000000000000
+      internalID: 6270180303322656162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_76
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 138
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5356e417a1e788290800000000000000
+      internalID: -7887916095304211147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_77
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 128
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e7b4c07bd176660800000000000000
+      internalID: 7378899186492341870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_78
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 121
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd3b97af7c58ed20800000000000000
+      internalID: 3307995629646200307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_79
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 131
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4931fe948b1873b20800000000000000
+      internalID: 3114100295864357780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_80
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 98
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db02b25876b3b9dc0800000000000000
+      internalID: -3631243358742306627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_81
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 115
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9ab22c1a4611020800000000000000
+      internalID: 2310738729727928815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_82
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98dd4da721b867ab0800000000000000
+      internalID: -5010664623916655223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_83
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 105
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81313dba6bfbb4e90800000000000000
+      internalID: -7040322801175948520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_84
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 115
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b1a7b35c17d4110800000000000000
+      internalID: 1246777763771849489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_85
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 102
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa201df8e6dad8510800000000000000
+      internalID: 1553088136883536554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_86
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 104
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1b43235aeecbbc0800000000000000
+      internalID: -3765872795109248522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_87
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 97
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb9382619eeb0040800000000000000
+      internalID: 4615044551361665993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_88
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 72
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c862a15fef314bb0800000000000000
+      internalID: -4953607818031503160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_89
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 83
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7317dd588158ee830800000000000000
+      internalID: 4102362650952692023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_90
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 79
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95722c72a6d933530800000000000000
+      internalID: 3833580787081553753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_91
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 65
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4483081d15619f0800000000000000
+      internalID: -498120748536675135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_92
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 64
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da267c314240f1500800000000000000
+      internalID: 369018247464837805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_93
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 65
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeff42c87e5bcba90800000000000000
+      internalID: -7296757290153738258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_94
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 60
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee53796ef175c9700800000000000000
+      internalID: 548409049156629998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_95
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 58
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b59b136df8530350800000000000000
+      internalID: 5981722575390873016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_96
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 34
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873a690ea61489580800000000000000
+      internalID: -8820227942914808968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_97
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 25
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea82d39106f9ca4d0800000000000000
+      internalID: -3121945206585481042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_98
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 39
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fce25b104cacaf0800000000000000
+      internalID: -375272107318259910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_99
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 28
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fc62ca7a7e22430800000000000000
+      internalID: 3756819746514194265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_100
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 32
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ea3c6ea9feade50800000000000000
+      internalID: 6835038833063734912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_101
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 13
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac43bbb624f74a520800000000000000
+      internalID: 2712432798835881162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_102
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 27
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78269b864251fea80800000000000000
+      internalID: -8435500330921663865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spakle2_103
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 27
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98af7820db8471790800000000000000
+      internalID: -7559493472889603447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spakle2_0: -6861576822511251783
+      spakle2_1: 6231908081854286187
+      spakle2_10: 357931119408863546
+      spakle2_100: 6835038833063734912
+      spakle2_101: 2712432798835881162
+      spakle2_102: -8435500330921663865
+      spakle2_103: -7559493472889603447
+      spakle2_11: 437293834854720990
+      spakle2_12: -8546118471376886351
+      spakle2_13: 3439071531270746585
+      spakle2_14: 975867671680129279
+      spakle2_15: 2963571815434789748
+      spakle2_16: 7509901691897281131
+      spakle2_17: 5736376144525091775
+      spakle2_18: 2324759994418425503
+      spakle2_19: -773721353771820437
+      spakle2_2: -4876777900841370256
+      spakle2_20: -3932411660684026293
+      spakle2_21: 6001352884475598476
+      spakle2_22: 3192003191642891561
+      spakle2_23: 3697450413980899634
+      spakle2_24: 2901668059621877457
+      spakle2_25: 4475506324045778558
+      spakle2_26: 5570547664432858194
+      spakle2_27: -4095562601559760314
+      spakle2_28: 5808614163918731896
+      spakle2_29: 5307017326174081661
+      spakle2_3: 8512034646850565071
+      spakle2_30: 3361374369854240325
+      spakle2_31: -6657818225580509521
+      spakle2_32: 8107463890183198814
+      spakle2_33: -5302820944427420196
+      spakle2_34: 4158065690437169906
+      spakle2_35: 6522000109228256586
+      spakle2_36: -7080349408054088828
+      spakle2_37: -5811382585640050519
+      spakle2_38: -3426441105819310678
+      spakle2_39: -2633479551455713415
+      spakle2_4: 8579784827246081093
+      spakle2_40: 3002841127915725671
+      spakle2_41: 5295505163854570525
+      spakle2_42: -1248472018618566141
+      spakle2_43: 8193176881710365036
+      spakle2_44: -7312583976740343444
+      spakle2_45: -5031423446730859278
+      spakle2_46: -2241573220464086554
+      spakle2_47: -643415728083809252
+      spakle2_48: -6005553236973055676
+      spakle2_49: -8703398095904739221
+      spakle2_5: -4743513536827930729
+      spakle2_50: -7097522035870738089
+      spakle2_51: 2418706413233972738
+      spakle2_52: -1313276215775778035
+      spakle2_53: -4120181875580625293
+      spakle2_54: -3257615223879102958
+      spakle2_55: 1933529666077063213
+      spakle2_56: -3782498148672806596
+      spakle2_57: 6177151759048559361
+      spakle2_58: 1072616197753852643
+      spakle2_59: -3261157067829175437
+      spakle2_6: -3107864408552286719
+      spakle2_60: -5867879104495142789
+      spakle2_61: -1958912743819630191
+      spakle2_62: 4809682476185857949
+      spakle2_63: -6351713940609489554
+      spakle2_64: 2319296747880976178
+      spakle2_65: -7793865877187713323
+      spakle2_66: 3822168259982624778
+      spakle2_67: 9081045707143067943
+      spakle2_68: 8903001137255772533
+      spakle2_69: 393896442257619299
+      spakle2_7: 6963560354102900314
+      spakle2_70: 2154222634762864666
+      spakle2_71: 4309900444489429323
+      spakle2_72: 6622239635907565511
+      spakle2_73: -2375156710169075903
+      spakle2_74: -5500386322821658293
+      spakle2_75: 6270180303322656162
+      spakle2_76: -7887916095304211147
+      spakle2_77: 7378899186492341870
+      spakle2_78: 3307995629646200307
+      spakle2_79: 3114100295864357780
+      spakle2_8: 2726185639623680200
+      spakle2_80: -3631243358742306627
+      spakle2_81: 2310738729727928815
+      spakle2_82: -5010664623916655223
+      spakle2_83: -7040322801175948520
+      spakle2_84: 1246777763771849489
+      spakle2_85: 1553088136883536554
+      spakle2_86: -3765872795109248522
+      spakle2_87: 4615044551361665993
+      spakle2_88: -4953607818031503160
+      spakle2_89: 4102362650952692023
+      spakle2_9: 2062882017559502404
+      spakle2_90: 3833580787081553753
+      spakle2_91: -498120748536675135
+      spakle2_92: 369018247464837805
+      spakle2_93: -7296757290153738258
+      spakle2_94: 548409049156629998
+      spakle2_95: 5981722575390873016
+      spakle2_96: -8820227942914808968
+      spakle2_97: -3121945206585481042
+      spakle2_98: -375272107318259910
+      spakle2_99: 3756819746514194265
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

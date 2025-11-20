@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: 1eb7f46838bc7c541b0692ebfa445e46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3066749380508934640
+    second: boss_coal_0
+  - first:
+      213: 4179637162295831993
+    second: boss_coal_1
+  - first:
+      213: 6586077918458301968
+    second: boss_coal_2
+  - first:
+      213: 4670776087310413103
+    second: boss_coal_3
+  - first:
+      213: -2029671095536143980
+    second: boss_coal_4
+  - first:
+      213: -1584688934231560061
+    second: boss_coal_5
+  - first:
+      213: 126554545829304891
+    second: boss_coal_6
+  - first:
+      213: -8797384331608324737
+    second: boss_coal_7
+  - first:
+      213: 5418463978550094105
+    second: boss_coal_8
+  - first:
+      213: 3297879157263285347
+    second: boss_coal_9
+  - first:
+      213: 1850407149468009604
+    second: boss_coal_10
+  - first:
+      213: -5643080126347850214
+    second: boss_coal_11
+  - first:
+      213: 8427844920844389447
+    second: boss_coal_12
+  - first:
+      213: 2442945604257336886
+    second: boss_coal_13
+  - first:
+      213: 4988878174139544316
+    second: boss_coal_14
+  - first:
+      213: 3837304825830855495
+    second: boss_coal_15
+  - first:
+      213: -9054942629847710471
+    second: boss_coal_16
+  - first:
+      213: 5870178564422837481
+    second: boss_coal_17
+  - first:
+      213: 8311930719601943903
+    second: boss_coal_18
+  - first:
+      213: -7863528151663036400
+    second: boss_coal_19
+  - first:
+      213: 1322719290960889116
+    second: boss_coal_20
+  - first:
+      213: -7263451881159358596
+    second: boss_coal_21
+  - first:
+      213: 3469256652040995970
+    second: boss_coal_22
+  - first:
+      213: -1931693580418329874
+    second: boss_coal_23
+  - first:
+      213: -4159595120555293310
+    second: boss_coal_24
+  - first:
+      213: 715521578742584713
+    second: boss_coal_25
+  - first:
+      213: 1035555819997832508
+    second: boss_coal_26
+  - first:
+      213: -4937207821423722787
+    second: boss_coal_27
+  - first:
+      213: -1580099528482885729
+    second: boss_coal_28
+  - first:
+      213: -220430695585944307
+    second: boss_coal_29
+  - first:
+      213: -1346130326043631353
+    second: boss_coal_30
+  - first:
+      213: 1914659631430646126
+    second: boss_coal_31
+  - first:
+      213: 22685053883912974
+    second: boss_coal_32
+  - first:
+      213: 5092420081105065228
+    second: boss_coal_33
+  - first:
+      213: 3383411823031521377
+    second: boss_coal_34
+  - first:
+      213: 5533364809105388540
+    second: boss_coal_35
+  - first:
+      213: -6419243451803374237
+    second: boss_coal_36
+  - first:
+      213: -7212158122760252309
+    second: boss_coal_37
+  - first:
+      213: 5585070452966376993
+    second: boss_coal_38
+  - first:
+      213: -5814310623150548471
+    second: boss_coal_39
+  - first:
+      213: -9202894374846496505
+    second: boss_coal_40
+  - first:
+      213: 2059967796875688617
+    second: boss_coal_41
+  - first:
+      213: -1671608829649647933
+    second: boss_coal_42
+  - first:
+      213: 5274674345049175407
+    second: boss_coal_43
+  - first:
+      213: -249241437743592110
+    second: boss_coal_44
+  - first:
+      213: -4079626418087292951
+    second: boss_coal_45
+  - first:
+      213: -5677729498399861483
+    second: boss_coal_46
+  - first:
+      213: 1427645753417774272
+    second: boss_coal_47
+  - first:
+      213: 8232278462749498476
+    second: boss_coal_48
+  - first:
+      213: 7794577422930372035
+    second: boss_coal_49
+  - first:
+      213: 7353704556358869525
+    second: boss_coal_50
+  - first:
+      213: -7870849870620642996
+    second: boss_coal_51
+  - first:
+      213: 7512471686730034859
+    second: boss_coal_52
+  - first:
+      213: -6562755140458964339
+    second: boss_coal_53
+  - first:
+      213: -136644516627206147
+    second: boss_coal_54
+  - first:
+      213: 442296508836108381
+    second: boss_coal_55
+  - first:
+      213: -8342800168915877957
+    second: boss_coal_56
+  - first:
+      213: -4219685277359447543
+    second: boss_coal_57
+  - first:
+      213: 6525271575569665735
+    second: boss_coal_58
+  - first:
+      213: -7369414803745279954
+    second: boss_coal_59
+  - first:
+      213: -5172349601889126079
+    second: boss_coal_60
+  - first:
+      213: 8478175946270019143
+    second: boss_coal_61
+  - first:
+      213: -2992458110640612676
+    second: boss_coal_62
+  - first:
+      213: 5383230249050554506
+    second: boss_coal_63
+  - first:
+      213: 8350066579696915870
+    second: boss_coal_64
+  - first:
+      213: 6935348476365430774
+    second: boss_coal_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss_coal_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 419
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1626030584f8a20800000000000000
+      internalID: 3066749380508934640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 430
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd2aacbadd010a30800000000000000
+      internalID: 4179637162295831993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 419
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e40c8e8f2766b50800000000000000
+      internalID: 6586077918458301968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 419
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2da685ca1ee1d040800000000000000
+      internalID: 4670776087310413103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 430
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491b0bb64e825d3e0800000000000000
+      internalID: -2029671095536143980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 419
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380b2a37fcd020ae0800000000000000
+      internalID: -1584688934231560061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 419
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3adddc50bc91c100800000000000000
+      internalID: 126554545829304891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 430
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7506e99f8969e580800000000000000
+      internalID: -8797384331608324737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_8
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 419
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9196abdb740423b40800000000000000
+      internalID: 5418463978550094105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_9
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 429
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cb7d0ee9b64cd20800000000000000
+      internalID: 3297879157263285347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 414
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48442e1af77fda910800000000000000
+      internalID: 1850407149468009604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 401
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e48fdf580cfa1b0800000000000000
+      internalID: -5643080126347850214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 349
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c82098d48b5f470800000000000000
+      internalID: 8427844920844389447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 348
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e4c53751617e120800000000000000
+      internalID: 2442945604257336886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 348
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf27945644e0c3540800000000000000
+      internalID: 4988878174139544316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 359
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7435a8e7868d04530800000000000000
+      internalID: 3837304825830855495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 348
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4c26e37a1665280800000000000000
+      internalID: -9054942629847710471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 348
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e429848d40177150800000000000000
+      internalID: 5870178564422837481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_18
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 349
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55e78373f8e95370800000000000000
+      internalID: 8311930719601943903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_19
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 326
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01837de0fc22fd290800000000000000
+      internalID: -7863528151663036400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 289
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15c743ef2e3b5210800000000000000
+      internalID: 1322719290960889116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_21
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 289
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c778a5c5ff8033b90800000000000000
+      internalID: -7263451881159358596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_22
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 289
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284809b4b86452030800000000000000
+      internalID: 3469256652040995970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_23
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 317
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee253445cee3135e0800000000000000
+      internalID: -1931693580418329874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 278
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2858addb6462646c0800000000000000
+      internalID: -4159595120555293310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 222
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985141ab51b0ee900800000000000000
+      internalID: 715521578742584713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_26
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 278
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c352f0c18880f5e00800000000000000
+      internalID: 1035555819997832508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_27
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 278
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde32c515a38b7bb0800000000000000
+      internalID: -4937207821423722787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_28
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 278
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fe30fb9db521ae0800000000000000
+      internalID: -1580099528482885729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_29
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 278
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0de104437fd0fcf0800000000000000
+      internalID: -220430695585944307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_30
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 278
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701e9ceb995915de0800000000000000
+      internalID: -1346130326043631353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_31
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 222
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69343d5acc329a10800000000000000
+      internalID: 1914659631430646126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 212
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e031672bfe7905000800000000000000
+      internalID: 22685053883912974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 137
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05555d3519eba640800000000000000
+      internalID: 5092420081105065228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_34
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 212
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16096a0802b44fe20800000000000000
+      internalID: 3383411823031521377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_35
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 153
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3bf531af57acc40800000000000000
+      internalID: 5533364809105388540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_36
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 212
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36de18857144ae6a0800000000000000
+      internalID: -6419243451803374237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_37
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 212
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b645de4266449eb90800000000000000
+      internalID: -7212158122760252309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_38
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 124
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126479a6cf7228d40800000000000000
+      internalID: 5585070452966376993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_39
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 152
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ad4553b4b6f4fa0800000000000000
+      internalID: -5814310623150548471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_40
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 142
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70185d93350c84080800000000000000
+      internalID: -9202894374846496505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_41
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 142
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aaf48d0cc9769c10800000000000000
+      internalID: 2059967796875688617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_42
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 142
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6835140a04dc8e0800000000000000
+      internalID: -1671608829649647933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_43
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 153
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65b582de58633940800000000000000
+      internalID: 5274674345049175407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_44
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 142
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d4cff9b348a8cf0800000000000000
+      internalID: -249241437743592110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_45
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 142
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef8b9533614267c0800000000000000
+      internalID: -4079626418087292951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_46
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 153
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5159e156a17a431b0800000000000000
+      internalID: -5677729498399861483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_47
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 142
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4bf8daf3400d310800000000000000
+      internalID: 1427645753417774272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 49
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c584835adee3270800000000000000
+      internalID: 8232278462749498476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_49
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 72
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c56b046ed6eb2c60800000000000000
+      internalID: 7794577422930372035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_50
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 71
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51221f8155b9d0660800000000000000
+      internalID: 7353704556358869525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_51
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 71
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c413a358ebf15c290800000000000000
+      internalID: -7870849870620642996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_52
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 82
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae29b04239a14860800000000000000
+      internalID: 7512471686730034859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_53
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 71
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a131188f86ce4a0800000000000000
+      internalID: -6562755140458964339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_54
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 71
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff2eed398a8a1ef0800000000000000
+      internalID: -136644516627206147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_55
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 72
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d585296d45a532600800000000000000
+      internalID: 442296508836108381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_56
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 40
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf33bbc27b683c80800000000000000
+      internalID: -8342800168915877957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_57
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 12
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9026b0bd89aa075c0800000000000000
+      internalID: -4219685277359447543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_58
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 12
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce88c4fceb6e8a50800000000000000
+      internalID: 6525271575569665735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_59
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 12
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20f144e7449ab990800000000000000
+      internalID: -7369414803745279954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_60
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149f34df07f1838b0800000000000000
+      internalID: -5172349601889126079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e8fa49a1888a570800000000000000
+      internalID: 8478175946270019143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_62
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba970ef337a876d0800000000000000
+      internalID: -2992458110640612676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_63
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80cbc2d36315ba40800000000000000
+      internalID: 5383230249050554506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_64
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9512bd405561e370800000000000000
+      internalID: 8350066579696915870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_coal_65
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffde47b1be4f3060800000000000000
+      internalID: 6935348476365430774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boss_coal_0: 3066749380508934640
+      boss_coal_1: 4179637162295831993
+      boss_coal_10: 1850407149468009604
+      boss_coal_11: -5643080126347850214
+      boss_coal_12: 8427844920844389447
+      boss_coal_13: 2442945604257336886
+      boss_coal_14: 4988878174139544316
+      boss_coal_15: 3837304825830855495
+      boss_coal_16: -9054942629847710471
+      boss_coal_17: 5870178564422837481
+      boss_coal_18: 8311930719601943903
+      boss_coal_19: -7863528151663036400
+      boss_coal_2: 6586077918458301968
+      boss_coal_20: 1322719290960889116
+      boss_coal_21: -7263451881159358596
+      boss_coal_22: 3469256652040995970
+      boss_coal_23: -1931693580418329874
+      boss_coal_24: -4159595120555293310
+      boss_coal_25: 715521578742584713
+      boss_coal_26: 1035555819997832508
+      boss_coal_27: -4937207821423722787
+      boss_coal_28: -1580099528482885729
+      boss_coal_29: -220430695585944307
+      boss_coal_3: 4670776087310413103
+      boss_coal_30: -1346130326043631353
+      boss_coal_31: 1914659631430646126
+      boss_coal_32: 22685053883912974
+      boss_coal_33: 5092420081105065228
+      boss_coal_34: 3383411823031521377
+      boss_coal_35: 5533364809105388540
+      boss_coal_36: -6419243451803374237
+      boss_coal_37: -7212158122760252309
+      boss_coal_38: 5585070452966376993
+      boss_coal_39: -5814310623150548471
+      boss_coal_4: -2029671095536143980
+      boss_coal_40: -9202894374846496505
+      boss_coal_41: 2059967796875688617
+      boss_coal_42: -1671608829649647933
+      boss_coal_43: 5274674345049175407
+      boss_coal_44: -249241437743592110
+      boss_coal_45: -4079626418087292951
+      boss_coal_46: -5677729498399861483
+      boss_coal_47: 1427645753417774272
+      boss_coal_48: 8232278462749498476
+      boss_coal_49: 7794577422930372035
+      boss_coal_5: -1584688934231560061
+      boss_coal_50: 7353704556358869525
+      boss_coal_51: -7870849870620642996
+      boss_coal_52: 7512471686730034859
+      boss_coal_53: -6562755140458964339
+      boss_coal_54: -136644516627206147
+      boss_coal_55: 442296508836108381
+      boss_coal_56: -8342800168915877957
+      boss_coal_57: -4219685277359447543
+      boss_coal_58: 6525271575569665735
+      boss_coal_59: -7369414803745279954
+      boss_coal_6: 126554545829304891
+      boss_coal_60: -5172349601889126079
+      boss_coal_61: 8478175946270019143
+      boss_coal_62: -2992458110640612676
+      boss_coal_63: 5383230249050554506
+      boss_coal_64: 8350066579696915870
+      boss_coal_65: 6935348476365430774
+      boss_coal_7: -8797384331608324737
+      boss_coal_8: 5418463978550094105
+      boss_coal_9: 3297879157263285347
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 8fcc1f1df71d3af4a8682a8d58f1389c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5167472709632288983
+    second: boss_pakteria_0
+  - first:
+      213: -2911225177384852310
+    second: boss_pakteria_1
+  - first:
+      213: -7859637350967974663
+    second: boss_pakteria_2
+  - first:
+      213: -6355698763574613907
+    second: boss_pakteria_3
+  - first:
+      213: -3866071714138079352
+    second: boss_pakteria_4
+  - first:
+      213: 4592426052617534646
+    second: boss_pakteria_5
+  - first:
+      213: -1969757561392619937
+    second: boss_pakteria_6
+  - first:
+      213: -4556945475221844101
+    second: boss_pakteria_7
+  - first:
+      213: 564140278487755781
+    second: boss_pakteria_8
+  - first:
+      213: 2102483256024009358
+    second: boss_pakteria_9
+  - first:
+      213: 3478538611533473486
+    second: boss_pakteria_10
+  - first:
+      213: -5768887343068339894
+    second: boss_pakteria_11
+  - first:
+      213: 2935282865685508779
+    second: boss_pakteria_12
+  - first:
+      213: -5609567705524456742
+    second: boss_pakteria_13
+  - first:
+      213: -5271318915714015228
+    second: boss_pakteria_14
+  - first:
+      213: 2668463034088607869
+    second: boss_pakteria_15
+  - first:
+      213: -5776013985606582242
+    second: boss_pakteria_16
+  - first:
+      213: -2599476196129903907
+    second: boss_pakteria_17
+  - first:
+      213: 9091521482006496423
+    second: boss_pakteria_18
+  - first:
+      213: 6882712474986295567
+    second: boss_pakteria_19
+  - first:
+      213: -8156125666077454065
+    second: boss_pakteria_20
+  - first:
+      213: 2745372654623078454
+    second: boss_pakteria_21
+  - first:
+      213: 3544368585824687457
+    second: boss_pakteria_22
+  - first:
+      213: 7766320749031254972
+    second: boss_pakteria_23
+  - first:
+      213: -7754663357058497469
+    second: boss_pakteria_24
+  - first:
+      213: -2394243230871004689
+    second: boss_pakteria_25
+  - first:
+      213: -5586078419302298175
+    second: boss_pakteria_26
+  - first:
+      213: 2192367282281372593
+    second: boss_pakteria_27
+  - first:
+      213: 6353910563475986574
+    second: boss_pakteria_28
+  - first:
+      213: 4936501111204982204
+    second: boss_pakteria_29
+  - first:
+      213: 6065515111693943734
+    second: boss_pakteria_30
+  - first:
+      213: -8473327277616913464
+    second: boss_pakteria_31
+  - first:
+      213: 342796115323599041
+    second: boss_pakteria_32
+  - first:
+      213: 677773746711223239
+    second: boss_pakteria_33
+  - first:
+      213: 5430904920489795730
+    second: boss_pakteria_34
+  - first:
+      213: 8639960249811196739
+    second: boss_pakteria_35
+  - first:
+      213: 3431404770270708125
+    second: boss_pakteria_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss_pakteria_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 126
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8682c0d0d86b740800000000000000
+      internalID: 5167472709632288983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 125
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa46dc020204997d0800000000000000
+      internalID: -2911225177384852310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 125
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f46920b875fce290800000000000000
+      internalID: -7859637350967974663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 125
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68eeb106a50cc7a0800000000000000
+      internalID: -6355698763574613907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 125
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f3d926244f85ac0800000000000000
+      internalID: -3866071714138079352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 83
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc7483c9239bbf30800000000000000
+      internalID: 4592426052617534646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_6
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 108
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e9d832fe30aa4e0800000000000000
+      internalID: -1969757561392619937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 106
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f0498eb3a72c0c0800000000000000
+      internalID: -4556945475221844101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 117
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ca0c6289a34d700800000000000000
+      internalID: 564140278487755781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a8485c1658d2d10800000000000000
+      internalID: 2102483256024009358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 83
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6eee5ef60464030800000000000000
+      internalID: 3478538611533473486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 95
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a412a2fb68bc0ffa0800000000000000
+      internalID: -5768887343068339894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 86
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2b97ce6383cb820800000000000000
+      internalID: 2935282865685508779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 98
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad236b084efc622b0800000000000000
+      internalID: -5609567705524456742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 83
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400a113ff5388d6b0800000000000000
+      internalID: -5271318915714015228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_15
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 83
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70dc1bcdf8480520800000000000000
+      internalID: 2668463034088607869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_16
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 86
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e104b3af1e977dfa0800000000000000
+      internalID: -5776013985606582242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 66
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddae7971c2eccebd0800000000000000
+      internalID: -2599476196129903907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 65
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a484d27e929b2e70800000000000000
+      internalID: 9091521482006496423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_19
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 64
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0135b2a78e448f50800000000000000
+      internalID: 6882712474986295567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 44
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01d1027bee9fce80800000000000000
+      internalID: -8156125666077454065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 44
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63831ee32e5891620800000000000000
+      internalID: 2745372654623078454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 44
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165522f2370203130800000000000000
+      internalID: 3544368585824687457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_23
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 44
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbe0c1d29387cb60800000000000000
+      internalID: 7766320749031254972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_24
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 45
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3444ac143c6e16490800000000000000
+      internalID: -7754663357058497469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_25
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 30
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9dc0e7770f5ced0800000000000000
+      internalID: -2394243230871004689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_26
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 36
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdc20226434a72b0800000000000000
+      internalID: -5586078419302298175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_27
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 25
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbd1957d6adc6e10800000000000000
+      internalID: 2192367282281372593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_28
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 27
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8896963eff9d2850800000000000000
+      internalID: 6353910563475986574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_29
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbda1be1b99f18440800000000000000
+      internalID: 4936501111204982204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_30
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 17
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3084c8bd90d2450800000000000000
+      internalID: 6065515111693943734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_31
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 5
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c324001cb1b86a80800000000000000
+      internalID: -8473327277616913464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_32
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 14
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c83f3c204bd1c400800000000000000
+      internalID: 342796115323599041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_33
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbdec2b1afe76900800000000000000
+      internalID: 677773746711223239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_34
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 5
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29027b240437e5b40800000000000000
+      internalID: 5430904920489795730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_35
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bdd7b121e47e770800000000000000
+      internalID: 8639960249811196739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_pakteria_36
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91019c457cce9f20800000000000000
+      internalID: 3431404770270708125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boss_pakteria_0: 5167472709632288983
+      boss_pakteria_1: -2911225177384852310
+      boss_pakteria_10: 3478538611533473486
+      boss_pakteria_11: -5768887343068339894
+      boss_pakteria_12: 2935282865685508779
+      boss_pakteria_13: -5609567705524456742
+      boss_pakteria_14: -5271318915714015228
+      boss_pakteria_15: 2668463034088607869
+      boss_pakteria_16: -5776013985606582242
+      boss_pakteria_17: -2599476196129903907
+      boss_pakteria_18: 9091521482006496423
+      boss_pakteria_19: 6882712474986295567
+      boss_pakteria_2: -7859637350967974663
+      boss_pakteria_20: -8156125666077454065
+      boss_pakteria_21: 2745372654623078454
+      boss_pakteria_22: 3544368585824687457
+      boss_pakteria_23: 7766320749031254972
+      boss_pakteria_24: -7754663357058497469
+      boss_pakteria_25: -2394243230871004689
+      boss_pakteria_26: -5586078419302298175
+      boss_pakteria_27: 2192367282281372593
+      boss_pakteria_28: 6353910563475986574
+      boss_pakteria_29: 4936501111204982204
+      boss_pakteria_3: -6355698763574613907
+      boss_pakteria_30: 6065515111693943734
+      boss_pakteria_31: -8473327277616913464
+      boss_pakteria_32: 342796115323599041
+      boss_pakteria_33: 677773746711223239
+      boss_pakteria_34: 5430904920489795730
+      boss_pakteria_35: 8639960249811196739
+      boss_pakteria_36: 3431404770270708125
+      boss_pakteria_4: -3866071714138079352
+      boss_pakteria_5: 4592426052617534646
+      boss_pakteria_6: -1969757561392619937
+      boss_pakteria_7: -4556945475221844101
+      boss_pakteria_8: 564140278487755781
+      boss_pakteria_9: 2102483256024009358
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: cbb3be2bd8204594fbb16a8cd78ce6f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4384022200760583542
+    second: Towl_0
+  - first:
+      213: 7740369375963600873
+    second: Towl_1
+  - first:
+      213: -859973654332090646
+    second: Towl_2
+  - first:
+      213: -6394275902711732138
+    second: Towl_3
+  - first:
+      213: 4203698228874822773
+    second: Towl_4
+  - first:
+      213: 5575211048014900483
+    second: Towl_5
+  - first:
+      213: -1566265652612004045
+    second: Towl_6
+  - first:
+      213: 5972633910522193802
+    second: Towl_7
+  - first:
+      213: 619873572652632170
+    second: Towl_8
+  - first:
+      213: 3908684584285613227
+    second: Towl_9
+  - first:
+      213: 3007579979814818016
+    second: Towl_10
+  - first:
+      213: 6441283635109167481
+    second: Towl_11
+  - first:
+      213: 1729100929965963635
+    second: Towl_12
+  - first:
+      213: 5324494272017738188
+    second: Towl_13
+  - first:
+      213: -511950505738810261
+    second: Towl_14
+  - first:
+      213: 8417737632042438940
+    second: Towl_15
+  - first:
+      213: -3339090399296199530
+    second: Towl_16
+  - first:
+      213: -6121035529141815510
+    second: Towl_17
+  - first:
+      213: -834111876690483363
+    second: Towl_18
+  - first:
+      213: 738449092669025101
+    second: Towl_19
+  - first:
+      213: 8164232572578374605
+    second: Towl_20
+  - first:
+      213: 6102521859021786469
+    second: Towl_21
+  - first:
+      213: -2479541709215754785
+    second: Towl_22
+  - first:
+      213: -3301766712287647551
+    second: Towl_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Towl_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 331
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a3d343903d823c0800000000000000
+      internalID: -4384022200760583542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Towl_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 331
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e75f9cefe05b6b60800000000000000
+      internalID: 7740369375963600873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Towl_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 331
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae657598482c014f0800000000000000
+      internalID: -859973654332090646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Towl_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 331
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658e60fd1f7f247a0800000000000000
+      internalID: -6394275902711732138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Towl_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 267
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574c50b5449865a30800000000000000
+      internalID: 4203698228874822773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Towl_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 267
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30de2c0d8e02f5d40800000000000000
+      internalID: 5575211048014900483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Towl_6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 267
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3378a28ffa1834ae0800000000000000
+      internalID: -1566265652612004045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Towl_7
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 267
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87a022b5ee03e250800000000000000
+      internalID: 5972633910522193802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Towl_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 201
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68cc97eabb3a9800800000000000000
+      internalID: 619873572652632170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Towl_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 201
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baca3699bef6e3630800000000000000
+      internalID: 3908684584285613227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Towl_10
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 201
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0507a8e021db920800000000000000
+      internalID: 3007579979814818016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Towl_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 201
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9710838b659046950800000000000000
+      internalID: 6441283635109167481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Towl_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 132
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3793b6772200ff710800000000000000
+      internalID: 1729100929965963635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Towl_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 132
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9283c745764e940800000000000000
+      internalID: 5324494272017738188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Towl_14
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 132
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c4bda3abf25e8f0800000000000000
+      internalID: -511950505738810261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Towl_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 132
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11d35af6cfc1d470800000000000000
+      internalID: 8417737632042438940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Towl_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 68
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694680d19fa29a1d0800000000000000
+      internalID: -3339090399296199530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Towl_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 68
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27f4fbed96bd0ba0800000000000000
+      internalID: -6121035529141815510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Towl_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 68
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57edeedaa3ac64f0800000000000000
+      internalID: -834111876690483363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Towl_19
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 68
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b2f3d898f7f3a00800000000000000
+      internalID: 738449092669025101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Towl_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc32530d44e2d4170800000000000000
+      internalID: 8164232572578374605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Towl_21
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56dcc095c4380b450800000000000000
+      internalID: 6102521859021786469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Towl_22
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd51e60e3f5e69dd0800000000000000
+      internalID: -2479541709215754785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Towl_23
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8a2ee2ba4cd22d0800000000000000
+      internalID: -3301766712287647551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Towl_0: -4384022200760583542
+      Towl_1: 7740369375963600873
+      Towl_10: 3007579979814818016
+      Towl_11: 6441283635109167481
+      Towl_12: 1729100929965963635
+      Towl_13: 5324494272017738188
+      Towl_14: -511950505738810261
+      Towl_15: 8417737632042438940
+      Towl_16: -3339090399296199530
+      Towl_17: -6121035529141815510
+      Towl_18: -834111876690483363
+      Towl_19: 738449092669025101
+      Towl_2: -859973654332090646
+      Towl_20: 8164232572578374605
+      Towl_21: 6102521859021786469
+      Towl_22: -2479541709215754785
+      Towl_23: -3301766712287647551
+      Towl_3: -6394275902711732138
+      Towl_4: 4203698228874822773
+      Towl_5: 5575211048014900483
+      Towl_6: -1566265652612004045
+      Towl_7: 5972633910522193802
+      Towl_8: 619873572652632170
+      Towl_9: 3908684584285613227
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

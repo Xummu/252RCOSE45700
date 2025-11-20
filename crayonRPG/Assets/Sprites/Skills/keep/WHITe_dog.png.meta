@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: e821447c7d90ee041bd3f22a318f83e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1617088331044358041
+    second: WHITe_dog_0
+  - first:
+      213: 2719451626397824733
+    second: WHITe_dog_1
+  - first:
+      213: -7068503939970106363
+    second: WHITe_dog_2
+  - first:
+      213: -9102874968768942671
+    second: WHITe_dog_3
+  - first:
+      213: -256387180302006734
+    second: WHITe_dog_4
+  - first:
+      213: -5880425553375934035
+    second: WHITe_dog_5
+  - first:
+      213: -581150921138160612
+    second: WHITe_dog_6
+  - first:
+      213: -6293591059095890262
+    second: WHITe_dog_7
+  - first:
+      213: -2490589500185620861
+    second: WHITe_dog_8
+  - first:
+      213: 5756668134668537178
+    second: WHITe_dog_9
+  - first:
+      213: 7015421258777909317
+    second: WHITe_dog_10
+  - first:
+      213: -927065951101766555
+    second: WHITe_dog_11
+  - first:
+      213: 6046343757455018983
+    second: WHITe_dog_12
+  - first:
+      213: -2677300760385837605
+    second: WHITe_dog_13
+  - first:
+      213: 6109359248084079108
+    second: WHITe_dog_14
+  - first:
+      213: 2602415473567124167
+    second: WHITe_dog_15
+  - first:
+      213: 9171125523868640222
+    second: WHITe_dog_16
+  - first:
+      213: -3241774375573718481
+    second: WHITe_dog_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WHITe_dog_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 603
+        width: 284
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768fba90bb2fe89e0800000000000000
+      internalID: -1617088331044358041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WHITe_dog_1
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 604
+        width: 290
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6fc4f88de6db520800000000000000
+      internalID: 2719451626397824733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WHITe_dog_2
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 605
+        width: 280
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cf1acfd11a7ed90800000000000000
+      internalID: -7068503939970106363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WHITe_dog_3
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 603
+        width: 290
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd6bbbe1771ca180800000000000000
+      internalID: -9102874968768942671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WHITe_dog_4
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 604
+        width: 283
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2368229c731217cf0800000000000000
+      internalID: -256387180302006734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WHITe_dog_5
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 603
+        width: 290
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9c5e27d18846ea0800000000000000
+      internalID: -5880425553375934035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WHITe_dog_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 305
+        width: 286
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c3ba8f0565fe7f0800000000000000
+      internalID: -581150921138160612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WHITe_dog_7
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 304
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6d301d64ca8a8a0800000000000000
+      internalID: -6293591059095890262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WHITe_dog_8
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 304
+        width: 290
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e4e189b06af6dd0800000000000000
+      internalID: -2490589500185620861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WHITe_dog_9
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 304
+        width: 284
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d8ab81b2bc3ef40800000000000000
+      internalID: 5756668134668537178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WHITe_dog_10
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 304
+        width: 290
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5485e2f2778cb5160800000000000000
+      internalID: 7015421258777909317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WHITe_dog_11
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 305
+        width: 280
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5643835ed666223f0800000000000000
+      internalID: -927065951101766555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WHITe_dog_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 290
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebc10dcc9de8e350800000000000000
+      internalID: 6046343757455018983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WHITe_dog_13
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 6
+        width: 283
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5a154b42158dad0800000000000000
+      internalID: -2677300760385837605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WHITe_dog_14
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 6
+        width: 290
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4029c4b0eddc8c450800000000000000
+      internalID: 6109359248084079108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WHITe_dog_15
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 7
+        width: 286
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cac2f3c513ad1420800000000000000
+      internalID: 2602415473567124167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WHITe_dog_16
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 6
+        width: 289
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed365b0c212664f70800000000000000
+      internalID: 9171125523868640222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WHITe_dog_17
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 6
+        width: 290
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2af6fd8167e203d0800000000000000
+      internalID: -3241774375573718481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WHITe_dog_0: -1617088331044358041
+      WHITe_dog_1: 2719451626397824733
+      WHITe_dog_10: 7015421258777909317
+      WHITe_dog_11: -927065951101766555
+      WHITe_dog_12: 6046343757455018983
+      WHITe_dog_13: -2677300760385837605
+      WHITe_dog_14: 6109359248084079108
+      WHITe_dog_15: 2602415473567124167
+      WHITe_dog_16: 9171125523868640222
+      WHITe_dog_17: -3241774375573718481
+      WHITe_dog_2: -7068503939970106363
+      WHITe_dog_3: -9102874968768942671
+      WHITe_dog_4: -256387180302006734
+      WHITe_dog_5: -5880425553375934035
+      WHITe_dog_6: -581150921138160612
+      WHITe_dog_7: -6293591059095890262
+      WHITe_dog_8: -2490589500185620861
+      WHITe_dog_9: 5756668134668537178
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

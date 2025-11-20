@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 68acbe6bd4bf1234eaf35a356716889f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5648948912774026890
+    second: pakteria_0
+  - first:
+      213: -7188259328543667753
+    second: pakteria_1
+  - first:
+      213: -8247648172733688029
+    second: pakteria_2
+  - first:
+      213: 3367560747581919109
+    second: pakteria_3
+  - first:
+      213: -1756223682351369424
+    second: pakteria_4
+  - first:
+      213: 5301541494492867733
+    second: pakteria_5
+  - first:
+      213: 2994703301494691368
+    second: pakteria_6
+  - first:
+      213: 7517983196826525777
+    second: pakteria_7
+  - first:
+      213: 5049456236278600422
+    second: pakteria_8
+  - first:
+      213: -5925272048681581063
+    second: pakteria_9
+  - first:
+      213: -2763480537651179583
+    second: pakteria_10
+  - first:
+      213: 6905087832759421631
+    second: pakteria_11
+  - first:
+      213: 2771103020347563203
+    second: pakteria_12
+  - first:
+      213: -3486191088894718627
+    second: pakteria_13
+  - first:
+      213: 663363424330231820
+    second: pakteria_14
+  - first:
+      213: 8596983975770209549
+    second: pakteria_15
+  - first:
+      213: -8647795951137512959
+    second: pakteria_16
+  - first:
+      213: -5419658308074881713
+    second: pakteria_17
+  - first:
+      213: -726640744207198637
+    second: pakteria_18
+  - first:
+      213: -3806257159702327547
+    second: pakteria_19
+  - first:
+      213: -1100898944438401746
+    second: pakteria_20
+  - first:
+      213: 1113065431378763264
+    second: pakteria_21
+  - first:
+      213: 3128336214799711655
+    second: pakteria_22
+  - first:
+      213: -8763477505831564096
+    second: pakteria_23
+  - first:
+      213: 2840355596199349935
+    second: pakteria_24
+  - first:
+      213: 7577125905473027159
+    second: pakteria_25
+  - first:
+      213: -6189731412411617441
+    second: pakteria_26
+  - first:
+      213: 55882438412395948
+    second: pakteria_27
+  - first:
+      213: -2912023369420947622
+    second: pakteria_28
+  - first:
+      213: 7298675735922449043
+    second: pakteria_29
+  - first:
+      213: 6727665458167487069
+    second: pakteria_30
+  - first:
+      213: 5933966023421330497
+    second: pakteria_31
+  - first:
+      213: 1752699404586190170
+    second: pakteria_32
+  - first:
+      213: -7945013573230031622
+    second: pakteria_33
+  - first:
+      213: -2331233879025996377
+    second: pakteria_34
+  - first:
+      213: 955102070351570155
+    second: pakteria_35
+  - first:
+      213: -7432630305097893450
+    second: pakteria_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pakteria_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 126
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67966cba4e6ea91b0800000000000000
+      internalID: -5648948912774026890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 125
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d944c8c93c2e3c90800000000000000
+      internalID: -7188259328543667753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 125
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3271fcf4fa77a8d80800000000000000
+      internalID: -8247648172733688029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 125
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f4b2768aafbbe20800000000000000
+      internalID: 3367560747581919109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 125
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0337153add3a0a7e0800000000000000
+      internalID: -1756223682351369424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 83
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cad3586ebd29940800000000000000
+      internalID: 5301541494492867733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_6
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 108
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826d74d39c25f8920800000000000000
+      internalID: 2994703301494691368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 106
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1506332b2ed355860800000000000000
+      internalID: 7517983196826525777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 117
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2544891b5431640800000000000000
+      internalID: 5049456236278600422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f588c4177435cda0800000000000000
+      internalID: -5925272048681581063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 83
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf8891b71526a9d0800000000000000
+      internalID: -2763480537651179583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 95
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba4f769cccc3df50800000000000000
+      internalID: 6905087832759421631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 86
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc14dbd38fe47620800000000000000
+      internalID: 2771103020347563203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 98
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d4c4fdcaf8e9fc0800000000000000
+      internalID: -3486191088894718627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 83
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00b030158db43900800000000000000
+      internalID: 663363424330231820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_15
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 83
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d328f806f9e4770800000000000000
+      internalID: 8596983975770209549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_16
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 86
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1022362866bdcf780800000000000000
+      internalID: -8647795951137512959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 66
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4db33fbb7189c4b0800000000000000
+      internalID: -5419658308074881713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 65
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3565432d7147ae5f0800000000000000
+      internalID: -726640744207198637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_19
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 64
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fc72897457d2bc0800000000000000
+      internalID: -3806257159702327547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 44
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25852b2e32d8b0f0800000000000000
+      internalID: -1100898944438401746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 44
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e1911dc17627f00800000000000000
+      internalID: 1113065431378763264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 44
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad702576351a6b20800000000000000
+      internalID: 3128336214799711655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_23
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 44
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc88cba3afd16680800000000000000
+      internalID: -8763477505831564096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_24
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 45
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae414bad58fa6720800000000000000
+      internalID: 2840355596199349935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_25
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 30
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c312e9ddb572960800000000000000
+      internalID: 7577125905473027159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_26
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 36
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fe0243318a91aa0800000000000000
+      internalID: -6189731412411617441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_27
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 25
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5e0ca18c886c000800000000000000
+      internalID: 55882438412395948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_28
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 27
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f37009c2a6697d0800000000000000
+      internalID: -2912023369420947622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_29
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a9b6a69ea1a4560800000000000000
+      internalID: 7298675735922449043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_30
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 17
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a1db9e6187d5d50800000000000000
+      internalID: 6727665458167487069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_31
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 5
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1440447a8aea95250800000000000000
+      internalID: 5933966023421330497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_32
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 14
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55066082d6d25810800000000000000
+      internalID: 1752699404586190170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_33
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc87f7ef34adb190800000000000000
+      internalID: -7945013573230031622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_34
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 5
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adac40732bc5afd0800000000000000
+      internalID: -2331233879025996377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_35
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4ab8bc544314d00800000000000000
+      internalID: 955102070351570155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pakteria_36
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b936d50e1ef9d890800000000000000
+      internalID: -7432630305097893450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pakteria_0: -5648948912774026890
+      pakteria_1: -7188259328543667753
+      pakteria_10: -2763480537651179583
+      pakteria_11: 6905087832759421631
+      pakteria_12: 2771103020347563203
+      pakteria_13: -3486191088894718627
+      pakteria_14: 663363424330231820
+      pakteria_15: 8596983975770209549
+      pakteria_16: -8647795951137512959
+      pakteria_17: -5419658308074881713
+      pakteria_18: -726640744207198637
+      pakteria_19: -3806257159702327547
+      pakteria_2: -8247648172733688029
+      pakteria_20: -1100898944438401746
+      pakteria_21: 1113065431378763264
+      pakteria_22: 3128336214799711655
+      pakteria_23: -8763477505831564096
+      pakteria_24: 2840355596199349935
+      pakteria_25: 7577125905473027159
+      pakteria_26: -6189731412411617441
+      pakteria_27: 55882438412395948
+      pakteria_28: -2912023369420947622
+      pakteria_29: 7298675735922449043
+      pakteria_3: 3367560747581919109
+      pakteria_30: 6727665458167487069
+      pakteria_31: 5933966023421330497
+      pakteria_32: 1752699404586190170
+      pakteria_33: -7945013573230031622
+      pakteria_34: -2331233879025996377
+      pakteria_35: 955102070351570155
+      pakteria_36: -7432630305097893450
+      pakteria_4: -1756223682351369424
+      pakteria_5: 5301541494492867733
+      pakteria_6: 2994703301494691368
+      pakteria_7: 7517983196826525777
+      pakteria_8: 5049456236278600422
+      pakteria_9: -5925272048681581063
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

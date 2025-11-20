@@ -1,0 +1,8099 @@
+fileFormatVersion: 2
+guid: ffaddfe10236b7e4798d6b8c78322f77
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6945306555380672730
+    second: muki_0
+  - first:
+      213: 7700335846695410847
+    second: muki_1
+  - first:
+      213: 7187822922273557309
+    second: muki_2
+  - first:
+      213: -1059645328810720427
+    second: muki_3
+  - first:
+      213: -1647528387541800200
+    second: muki_4
+  - first:
+      213: 1051548724267435331
+    second: muki_5
+  - first:
+      213: -3542966502174882951
+    second: muki_6
+  - first:
+      213: -6549713023409585622
+    second: muki_7
+  - first:
+      213: -1192687712633988554
+    second: muki_8
+  - first:
+      213: -6182113925147055579
+    second: muki_9
+  - first:
+      213: 5338922752086042018
+    second: muki_10
+  - first:
+      213: -1035318999827583516
+    second: muki_11
+  - first:
+      213: -3863159272175566636
+    second: muki_12
+  - first:
+      213: 4595540931739826126
+    second: muki_13
+  - first:
+      213: 6104293490121150252
+    second: muki_14
+  - first:
+      213: -7236259325518077205
+    second: muki_15
+  - first:
+      213: 5708714083385579921
+    second: muki_16
+  - first:
+      213: 4948559385016487635
+    second: muki_17
+  - first:
+      213: 6913126656458766976
+    second: muki_18
+  - first:
+      213: -8905032647758553013
+    second: muki_19
+  - first:
+      213: -8169311161014316866
+    second: muki_20
+  - first:
+      213: -4597448033082440225
+    second: muki_21
+  - first:
+      213: -4115237879296342211
+    second: muki_22
+  - first:
+      213: 7393372511304651002
+    second: muki_23
+  - first:
+      213: -5201463744570729945
+    second: muki_24
+  - first:
+      213: -5766353799674152634
+    second: muki_25
+  - first:
+      213: 6590514875539907676
+    second: muki_26
+  - first:
+      213: -153756276089254009
+    second: muki_27
+  - first:
+      213: -5862547750667136948
+    second: muki_28
+  - first:
+      213: 6738865045316034983
+    second: muki_29
+  - first:
+      213: -7519368703503421638
+    second: muki_30
+  - first:
+      213: -8340836220271784939
+    second: muki_31
+  - first:
+      213: 6906716085448408678
+    second: muki_32
+  - first:
+      213: 4970722178160464437
+    second: muki_33
+  - first:
+      213: 4936274307070759313
+    second: muki_34
+  - first:
+      213: 5779691589996095305
+    second: muki_35
+  - first:
+      213: 4133796948756725860
+    second: muki_36
+  - first:
+      213: 4723224042921152052
+    second: muki_37
+  - first:
+      213: -4924370652564270932
+    second: muki_38
+  - first:
+      213: -5148894858848980761
+    second: muki_39
+  - first:
+      213: -5927739817760767121
+    second: muki_40
+  - first:
+      213: 3114292371833374499
+    second: muki_41
+  - first:
+      213: -3946569168293290238
+    second: muki_42
+  - first:
+      213: -1696978900600532392
+    second: muki_43
+  - first:
+      213: 2233904021729750613
+    second: muki_44
+  - first:
+      213: 2943137583143091139
+    second: muki_45
+  - first:
+      213: 4236877889380619849
+    second: muki_46
+  - first:
+      213: 907107392964022640
+    second: muki_47
+  - first:
+      213: -6509741094340404841
+    second: muki_48
+  - first:
+      213: 6164270507452662530
+    second: muki_49
+  - first:
+      213: -5476492526644528268
+    second: muki_50
+  - first:
+      213: 1808549768062075388
+    second: muki_51
+  - first:
+      213: 341419769683310967
+    second: muki_52
+  - first:
+      213: -2543302656911278827
+    second: muki_53
+  - first:
+      213: -3537177490444805225
+    second: muki_54
+  - first:
+      213: 139519882491466601
+    second: muki_55
+  - first:
+      213: -203724432810848683
+    second: muki_56
+  - first:
+      213: 7749064727882805007
+    second: muki_57
+  - first:
+      213: 3704427586007930532
+    second: muki_58
+  - first:
+      213: -1962661150133460483
+    second: muki_59
+  - first:
+      213: 7800836933479895514
+    second: muki_60
+  - first:
+      213: -6934695240003035289
+    second: muki_61
+  - first:
+      213: -3660387616357516478
+    second: muki_62
+  - first:
+      213: -9060878689185220009
+    second: muki_63
+  - first:
+      213: 3203905714729626513
+    second: muki_64
+  - first:
+      213: 4190817606817232487
+    second: muki_65
+  - first:
+      213: 5141656847709612457
+    second: muki_66
+  - first:
+      213: 7397762926662363300
+    second: muki_67
+  - first:
+      213: -447144925138136313
+    second: muki_68
+  - first:
+      213: 6123873493634010354
+    second: muki_69
+  - first:
+      213: -268487919896315457
+    second: muki_70
+  - first:
+      213: -3402038210577685410
+    second: muki_71
+  - first:
+      213: -6263286484832758043
+    second: muki_72
+  - first:
+      213: 7150192347958517046
+    second: muki_73
+  - first:
+      213: -7665601962010735068
+    second: muki_74
+  - first:
+      213: 3799542319848674720
+    second: muki_75
+  - first:
+      213: -2866579861411043673
+    second: muki_76
+  - first:
+      213: 1576634475071380967
+    second: muki_77
+  - first:
+      213: 3298754038528531928
+    second: muki_78
+  - first:
+      213: -3544924607431139297
+    second: muki_79
+  - first:
+      213: -9185729055586309052
+    second: muki_80
+  - first:
+      213: 5838888483666777809
+    second: muki_81
+  - first:
+      213: 3456419419209609109
+    second: muki_82
+  - first:
+      213: 8128025715595740086
+    second: muki_83
+  - first:
+      213: -8353691558065718397
+    second: muki_84
+  - first:
+      213: -6470762583911197645
+    second: muki_85
+  - first:
+      213: -8293616769783355225
+    second: muki_86
+  - first:
+      213: 6628934168176129363
+    second: muki_87
+  - first:
+      213: -4263998039775971582
+    second: muki_88
+  - first:
+      213: 6712232090417176013
+    second: muki_89
+  - first:
+      213: 804221725548137096
+    second: muki_90
+  - first:
+      213: 4653558469529960559
+    second: muki_91
+  - first:
+      213: 6991828963992025277
+    second: muki_92
+  - first:
+      213: 229417594122296679
+    second: muki_93
+  - first:
+      213: -357041033260746037
+    second: muki_94
+  - first:
+      213: 6275763496239730374
+    second: muki_95
+  - first:
+      213: -5213773077244592823
+    second: muki_96
+  - first:
+      213: -2235793774938476279
+    second: muki_97
+  - first:
+      213: 5401536380513016344
+    second: muki_98
+  - first:
+      213: -7323757614897373783
+    second: muki_99
+  - first:
+      213: 1355428052115572583
+    second: muki_100
+  - first:
+      213: -5957406945230915701
+    second: muki_101
+  - first:
+      213: 6045788578060374811
+    second: muki_102
+  - first:
+      213: 4559297197113834382
+    second: muki_103
+  - first:
+      213: -6553757035889687544
+    second: muki_104
+  - first:
+      213: 2952609997224085320
+    second: muki_105
+  - first:
+      213: 3294215574350786037
+    second: muki_106
+  - first:
+      213: 729195018785474468
+    second: muki_107
+  - first:
+      213: 8490915025420925255
+    second: muki_108
+  - first:
+      213: -7591801504706394275
+    second: muki_109
+  - first:
+      213: -6177193931977649825
+    second: muki_110
+  - first:
+      213: -6191395019014447873
+    second: muki_111
+  - first:
+      213: 2037260568997519930
+    second: muki_112
+  - first:
+      213: 2803793164420735549
+    second: muki_113
+  - first:
+      213: 8698385596846437853
+    second: muki_114
+  - first:
+      213: -3940281820313562755
+    second: muki_115
+  - first:
+      213: 2323168554429107745
+    second: muki_116
+  - first:
+      213: -4661376293059851430
+    second: muki_117
+  - first:
+      213: 2941010488208000632
+    second: muki_118
+  - first:
+      213: -3518953981540344817
+    second: muki_119
+  - first:
+      213: 1742196731287271483
+    second: muki_120
+  - first:
+      213: 8662028838495281719
+    second: muki_121
+  - first:
+      213: 5158794301217749974
+    second: muki_122
+  - first:
+      213: -7528347649674182042
+    second: muki_123
+  - first:
+      213: -601171973306145951
+    second: muki_124
+  - first:
+      213: 1442610477906683949
+    second: muki_125
+  - first:
+      213: 4605745666482070879
+    second: muki_126
+  - first:
+      213: -5522524136706361185
+    second: muki_127
+  - first:
+      213: -8339822545116736275
+    second: muki_128
+  - first:
+      213: 976896678077680930
+    second: muki_129
+  - first:
+      213: 1866070974414254906
+    second: muki_130
+  - first:
+      213: 798010254634360857
+    second: muki_131
+  - first:
+      213: -7235282340625512115
+    second: muki_132
+  - first:
+      213: 2566398495125919635
+    second: muki_133
+  - first:
+      213: -4434346563635492270
+    second: muki_134
+  - first:
+      213: 8648227047825150582
+    second: muki_135
+  - first:
+      213: -2929912882832835116
+    second: muki_136
+  - first:
+      213: -7177587719139187414
+    second: muki_137
+  - first:
+      213: 5349509900708383298
+    second: muki_138
+  - first:
+      213: -5519958138831515186
+    second: muki_139
+  - first:
+      213: -3633461001341261754
+    second: muki_140
+  - first:
+      213: 1785550646120101817
+    second: muki_141
+  - first:
+      213: -8899326367099031058
+    second: muki_142
+  - first:
+      213: -4202445745666772478
+    second: muki_143
+  - first:
+      213: -7986386417718350734
+    second: muki_144
+  - first:
+      213: 5853957733116378796
+    second: muki_145
+  - first:
+      213: 1187918746502197657
+    second: muki_146
+  - first:
+      213: -7988905717539099188
+    second: muki_147
+  - first:
+      213: 3416387803701850063
+    second: muki_148
+  - first:
+      213: 3506693937745883775
+    second: muki_149
+  - first:
+      213: -7387132774171183688
+    second: muki_150
+  - first:
+      213: 2252575552946628997
+    second: muki_151
+  - first:
+      213: -1204118480394594890
+    second: muki_152
+  - first:
+      213: 2295867854459804776
+    second: muki_153
+  - first:
+      213: -5908346872541985344
+    second: muki_154
+  - first:
+      213: -5145734392117612089
+    second: muki_155
+  - first:
+      213: 1840046765509267854
+    second: muki_156
+  - first:
+      213: -1253323725027682876
+    second: muki_157
+  - first:
+      213: 4639466910809633220
+    second: muki_158
+  - first:
+      213: -7032241570522204408
+    second: muki_159
+  - first:
+      213: -8842837690480709594
+    second: muki_160
+  - first:
+      213: -8373431837962352865
+    second: muki_161
+  - first:
+      213: -3311970908101379896
+    second: muki_162
+  - first:
+      213: -5172116837669352339
+    second: muki_163
+  - first:
+      213: -181023415642896250
+    second: muki_164
+  - first:
+      213: -6672816902407705830
+    second: muki_165
+  - first:
+      213: 3117235582642264473
+    second: muki_166
+  - first:
+      213: 2822661676118220440
+    second: muki_167
+  - first:
+      213: -7854904830191944720
+    second: muki_168
+  - first:
+      213: 1424071102444078009
+    second: muki_169
+  - first:
+      213: -4644572068376219093
+    second: muki_170
+  - first:
+      213: -9060352871413848473
+    second: muki_171
+  - first:
+      213: 5065930039603738097
+    second: muki_172
+  - first:
+      213: 4814447988042942039
+    second: muki_173
+  - first:
+      213: 2227939924494975627
+    second: muki_174
+  - first:
+      213: 5405891956307181601
+    second: muki_175
+  - first:
+      213: -8673781925606208528
+    second: muki_176
+  - first:
+      213: 4244201850122197785
+    second: muki_177
+  - first:
+      213: -5092824845450439910
+    second: muki_178
+  - first:
+      213: 2169809854801078578
+    second: muki_179
+  - first:
+      213: -3835874258332265018
+    second: muki_180
+  - first:
+      213: 327151758090875843
+    second: muki_181
+  - first:
+      213: 8920606840079800190
+    second: muki_182
+  - first:
+      213: -1446675045827226445
+    second: muki_183
+  - first:
+      213: 3973400080143676167
+    second: muki_184
+  - first:
+      213: -5353499276548240338
+    second: muki_185
+  - first:
+      213: 5146153165228172213
+    second: muki_186
+  - first:
+      213: 5257666264082777797
+    second: muki_187
+  - first:
+      213: -7519580988327458289
+    second: muki_188
+  - first:
+      213: 2857574111727656478
+    second: muki_189
+  - first:
+      213: -5551806695498351869
+    second: muki_190
+  - first:
+      213: 6334502269425505374
+    second: muki_191
+  - first:
+      213: 7921677793554429398
+    second: muki_192
+  - first:
+      213: -2138659614660442071
+    second: muki_193
+  - first:
+      213: 3139081221383712989
+    second: muki_194
+  - first:
+      213: 6412929379637681043
+    second: muki_195
+  - first:
+      213: 2384173581814191794
+    second: muki_196
+  - first:
+      213: -4747440467192195536
+    second: muki_197
+  - first:
+      213: -4123751258192523339
+    second: muki_198
+  - first:
+      213: -8019706618021578304
+    second: muki_199
+  - first:
+      213: -6047624867358684075
+    second: muki_200
+  - first:
+      213: -6054338186150588059
+    second: muki_201
+  - first:
+      213: -6452342403404782355
+    second: muki_202
+  - first:
+      213: -1113937564165802578
+    second: muki_203
+  - first:
+      213: -5496287677137990931
+    second: muki_204
+  - first:
+      213: -666636424770302480
+    second: muki_205
+  - first:
+      213: -1103281098891777064
+    second: muki_206
+  - first:
+      213: -8578822730942745524
+    second: muki_207
+  - first:
+      213: 4974192263349391344
+    second: muki_208
+  - first:
+      213: 1778531965165206318
+    second: muki_209
+  - first:
+      213: 4481762850469344600
+    second: muki_210
+  - first:
+      213: -7557568026052024426
+    second: muki_211
+  - first:
+      213: -3091150770877467047
+    second: muki_212
+  - first:
+      213: -7546549877998851875
+    second: muki_213
+  - first:
+      213: -7117745793553020452
+    second: muki_214
+  - first:
+      213: -7242851427237256328
+    second: muki_215
+  - first:
+      213: 3029580977642523037
+    second: muki_216
+  - first:
+      213: -1712119776037836216
+    second: muki_217
+  - first:
+      213: -3114367622441208520
+    second: muki_218
+  - first:
+      213: -3658879695546800690
+    second: muki_219
+  - first:
+      213: 3763514794503865667
+    second: muki_220
+  - first:
+      213: -8460204210009949547
+    second: muki_221
+  - first:
+      213: -1592897501497456920
+    second: muki_222
+  - first:
+      213: 6819297037436824334
+    second: muki_223
+  - first:
+      213: -2846542378913818896
+    second: muki_224
+  - first:
+      213: 3500931517630323184
+    second: muki_225
+  - first:
+      213: -2468835292545347699
+    second: muki_226
+  - first:
+      213: 6796646701170400020
+    second: muki_227
+  - first:
+      213: -5310904172168527325
+    second: muki_228
+  - first:
+      213: -5188884805275310637
+    second: muki_229
+  - first:
+      213: -364223594697426905
+    second: muki_230
+  - first:
+      213: 349199353833727338
+    second: muki_231
+  - first:
+      213: -6435864633356050777
+    second: muki_232
+  - first:
+      213: 3520342058993715109
+    second: muki_233
+  - first:
+      213: -7242851649968355592
+    second: muki_234
+  - first:
+      213: -7063432609241199720
+    second: muki_235
+  - first:
+      213: -4888376870568161167
+    second: muki_236
+  - first:
+      213: 4195568408582585092
+    second: muki_237
+  - first:
+      213: -1573003315390045673
+    second: muki_238
+  - first:
+      213: 1517370813752847683
+    second: muki_239
+  - first:
+      213: -6033382797209111677
+    second: muki_240
+  - first:
+      213: -2432304977310645365
+    second: muki_241
+  - first:
+      213: 6727898345795449300
+    second: muki_242
+  - first:
+      213: -6770774681048787188
+    second: muki_243
+  - first:
+      213: -981251454981579528
+    second: muki_244
+  - first:
+      213: -7904268074299628592
+    second: muki_245
+  - first:
+      213: 6973755769554331406
+    second: muki_246
+  - first:
+      213: -4387393976283630293
+    second: muki_247
+  - first:
+      213: 1787436458015623411
+    second: muki_248
+  - first:
+      213: -3455723652264979413
+    second: muki_249
+  - first:
+      213: -8666150236605161294
+    second: muki_250
+  - first:
+      213: -2460377144137262580
+    second: muki_251
+  - first:
+      213: -2207518667508704911
+    second: muki_252
+  - first:
+      213: 3714700924065517899
+    second: muki_253
+  - first:
+      213: 7808678803789459511
+    second: muki_254
+  - first:
+      213: -333714353924458208
+    second: muki_255
+  - first:
+      213: 5747678821162244896
+    second: muki_256
+  - first:
+      213: -8792473852984173092
+    second: muki_257
+  - first:
+      213: -2902117983225793386
+    second: muki_258
+  - first:
+      213: 6753870438472802372
+    second: muki_259
+  - first:
+      213: -5371950271541430150
+    second: muki_260
+  - first:
+      213: -3226708175301850455
+    second: muki_261
+  - first:
+      213: 5874686852551875020
+    second: muki_262
+  - first:
+      213: -668526838184841790
+    second: muki_263
+  - first:
+      213: -4786108710036455620
+    second: muki_264
+  - first:
+      213: -2460927556382476830
+    second: muki_265
+  - first:
+      213: -2930405469214459061
+    second: muki_266
+  - first:
+      213: -8901486828405849748
+    second: muki_267
+  - first:
+      213: 2812626082039009944
+    second: muki_268
+  - first:
+      213: 3514073688119355348
+    second: muki_269
+  - first:
+      213: -3517780955154484204
+    second: muki_270
+  - first:
+      213: 2232335757371594949
+    second: muki_271
+  - first:
+      213: -7903108181568754471
+    second: muki_272
+  - first:
+      213: -8574404635574640675
+    second: muki_273
+  - first:
+      213: 5558976143588709913
+    second: muki_274
+  - first:
+      213: 3374951702866875401
+    second: muki_275
+  - first:
+      213: 2734191495629366596
+    second: muki_276
+  - first:
+      213: -3365067056125305187
+    second: muki_277
+  - first:
+      213: -1149044290014376732
+    second: muki_278
+  - first:
+      213: 6247757492758654793
+    second: muki_279
+  - first:
+      213: -3371616968708987703
+    second: muki_280
+  - first:
+      213: -52019466189407375
+    second: muki_281
+  - first:
+      213: -8906232418296055308
+    second: muki_282
+  - first:
+      213: -5414806923480196835
+    second: muki_283
+  - first:
+      213: -1887603848528164615
+    second: muki_284
+  - first:
+      213: 6173392954224131028
+    second: muki_285
+  - first:
+      213: 3800888422532263394
+    second: muki_286
+  - first:
+      213: -394775267778574583
+    second: muki_287
+  - first:
+      213: -9205607146829971602
+    second: muki_288
+  - first:
+      213: -6829068960278676345
+    second: muki_289
+  - first:
+      213: 534508856364540347
+    second: muki_290
+  - first:
+      213: -3254753251369866337
+    second: muki_291
+  - first:
+      213: -4000536510362831456
+    second: muki_292
+  - first:
+      213: -308685740140535928
+    second: muki_293
+  - first:
+      213: -5936883524592208660
+    second: muki_294
+  - first:
+      213: 4871896092973736018
+    second: muki_295
+  - first:
+      213: 7569619344149013514
+    second: muki_296
+  - first:
+      213: -2725691398985021578
+    second: muki_297
+  - first:
+      213: -3413137539274431169
+    second: muki_298
+  - first:
+      213: -3942252712132414960
+    second: muki_299
+  - first:
+      213: 1956327433398042673
+    second: muki_300
+  - first:
+      213: 4185153598256577052
+    second: muki_301
+  - first:
+      213: -6604067853796663247
+    second: muki_302
+  - first:
+      213: 2750654652004300026
+    second: muki_303
+  - first:
+      213: -5801124247029289114
+    second: muki_304
+  - first:
+      213: -4539799810350201554
+    second: muki_305
+  - first:
+      213: -2278813445504762241
+    second: muki_306
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: muki_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 630
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad828a9a38fa26060800000000000000
+      internalID: 6945306555380672730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 630
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c9c7987a61dda60800000000000000
+      internalID: 7700335846695410847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 630
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b86867dd640c360800000000000000
+      internalID: 7187822922273557309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 630
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553c55c00326b41f0800000000000000
+      internalID: -1059645328810720427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 630
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fae23719adc229e0800000000000000
+      internalID: -1647528387541800200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 615
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345c9fd4ef9d79e00800000000000000
+      internalID: 1051548724267435331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_6
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 630
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97302cadcbad4dec0800000000000000
+      internalID: -3542966502174882951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 630
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a220ce205beba15a0800000000000000
+      internalID: -6549713023409585622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_8
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 630
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a5a7038d8b27fe0800000000000000
+      internalID: -1192687712633988554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_9
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 630
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a2d9aa328b43aa0800000000000000
+      internalID: -6182113925147055579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_10
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 630
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5e659c4f9a71a40800000000000000
+      internalID: 5338922752086042018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 568
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed6012eadec1a1f0800000000000000
+      internalID: -1035318999827583516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_12
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 568
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0083f1c1d436ac0800000000000000
+      internalID: -3863159272175566636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_13
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 568
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7be131124a6cf30800000000000000
+      internalID: 4595540931739826126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_14
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 567
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f866b569ec6b450800000000000000
+      internalID: 6104293490121150252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_15
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 629
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be223e79b74a39b90800000000000000
+      internalID: -7236259325518077205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 592
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1999778763d693f40800000000000000
+      internalID: 5708714083385579921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 595
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de45d5ca80dca440800000000000000
+      internalID: 4948559385016487635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_18
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 598
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a3285111c50ff50800000000000000
+      internalID: 6913126656458766976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_19
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 582
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40681ddcf7fa6480800000000000000
+      internalID: -8905032647758553013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_20
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 598
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb09b1c28c6c0ae80800000000000000
+      internalID: -8169311161014316866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_21
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 595
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd58dca4f559230c0800000000000000
+      internalID: -4597448033082440225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_22
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 592
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d374f46c3fcb3e6c0800000000000000
+      internalID: -4115237879296342211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_23
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 597
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0937490298a9660800000000000000
+      internalID: 7393372511304651002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 541
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ad9c86840b0d7b0800000000000000
+      internalID: -5201463744570729945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 541
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649b23945cbc9ffa0800000000000000
+      internalID: -5766353799674152634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_26
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 543
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54eb7b7c56367b50800000000000000
+      internalID: 6590514875539907676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_27
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 544
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f86b54b7fbdddf0800000000000000
+      internalID: -153756276089254009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 549
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4058b2c1eb04aea0800000000000000
+      internalID: -5862547750667136948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_29
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 544
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1eb5ffd02458d50800000000000000
+      internalID: 6738865045316034983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_30
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 543
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f2d74e006d5a790800000000000000
+      internalID: -7519368703503421638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_31
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 541
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c0df836a56f3c80800000000000000
+      internalID: -8340836220271784939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_32
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 541
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ef0a5bfa599df50800000000000000
+      internalID: 6906716085448408678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 486
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532196a2c7d8bf440800000000000000
+      internalID: 4970722178160464437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_34
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 486
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19117da245b218440800000000000000
+      internalID: 4936274307070759313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_35
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 486
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947a70501e6953050800000000000000
+      internalID: 5779691589996095305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_36
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 539
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4600d305c623e5930800000000000000
+      internalID: 4133796948756725860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_37
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 511
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e46e80e334c8140800000000000000
+      internalID: 4723224042921152052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_38
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 557
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca05c8f5bfe19abb0800000000000000
+      internalID: -4924370652564270932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 500
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0b878e7637b88b0800000000000000
+      internalID: -5148894858848980761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_40
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 500
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f634e61da007cbda0800000000000000
+      internalID: -5927739817760767121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_41
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 516
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32746d57960383b20800000000000000
+      internalID: 3114292371833374499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_42
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 500
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f9e525048fa39c0800000000000000
+      internalID: -3946569168293290238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_43
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 500
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8525f5e4eae1378e0800000000000000
+      internalID: -1696978900600532392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_44
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 506
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ea48d3fdb600f10800000000000000
+      internalID: 2233904021729750613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_45
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 527
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb7858d90028d820800000000000000
+      internalID: 2943137583143091139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 460
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9461d311ef96cca30800000000000000
+      internalID: 4236877889380619849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_47
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 483
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07150ca2e51b69c00800000000000000
+      internalID: 907107392964022640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_48
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 478
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799d31cf6f0c8a5a0800000000000000
+      internalID: -6509741094340404841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_49
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 480
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2030228ed53eb8550800000000000000
+      internalID: 6164270507452662530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_50
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 477
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b754e00179ff3b0800000000000000
+      internalID: -5476492526644528268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_51
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 479
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf184f39e62491910800000000000000
+      internalID: 1808549768062075388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_52
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 479
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779f44bb877fcb400800000000000000
+      internalID: 341419769683310967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_53
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 460
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dfe7265bf54bcd0800000000000000
+      internalID: -2543302656911278827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_54
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 404
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b978e20db69eec0800000000000000
+      internalID: -3537177490444805225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_55
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 404
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963120b089cafe100800000000000000
+      internalID: 139519882491466601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_56
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 404
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ecd3e25b93c2df0800000000000000
+      internalID: -203724432810848683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_57
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 474
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fa6fe40553a8b60800000000000000
+      internalID: 7749064727882805007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_58
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 483
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a619283345c86330800000000000000
+      internalID: 3704427586007930532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_59
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 458
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1e5d3251a33c4e0800000000000000
+      internalID: -1962661150133460483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_60
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 414
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad111d24cd3224c60800000000000000
+      internalID: 7800836933479895514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_61
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 471
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fd60abb6303cf90800000000000000
+      internalID: -6934695240003035289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_62
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 469
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b75c24bd0b33dc0800000000000000
+      internalID: -3660387616357516478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_63
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 470
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a353ab6da414280800000000000000
+      internalID: -9060878689185220009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_64
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 468
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bad44c54f867c20800000000000000
+      internalID: 3203905714729626513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_65
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 467
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7663bc4d866c82a30800000000000000
+      internalID: 4190817606817232487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_66
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 466
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9afac49a5da5740800000000000000
+      internalID: 5141656847709612457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_67
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 466
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8a340df222aa660800000000000000
+      internalID: 7397762926662363300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_68
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 467
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703d5064f0c6bc9f0800000000000000
+      internalID: -447144925138136313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_69
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 422
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc4c7d2f7e5cf450800000000000000
+      internalID: 6123873493634010354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_70
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 462
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9b81cc8a3264cf0800000000000000
+      internalID: -268487919896315457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_71
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 430
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e542632b54889c0d0800000000000000
+      internalID: -3402038210577685410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 414
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6d90950265419a0800000000000000
+      internalID: -6263286484832758043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_73
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 452
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d98cf9e069a3360800000000000000
+      internalID: 7150192347958517046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_74
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 449
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e00d031af4e9590800000000000000
+      internalID: -7665601962010735068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_75
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 414
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5d4abeb9faab430800000000000000
+      internalID: 3799542319848674720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_76
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 435
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a66e48cdccd738d0800000000000000
+      internalID: -2866579861411043673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_77
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 428
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed9343a3b451e510800000000000000
+      internalID: 1576634475071380967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_78
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 433
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddd0eb025787cd20800000000000000
+      internalID: 3298754038528531928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_79
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 429
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10a682f9d5edcec0800000000000000
+      internalID: -3544924607431139297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_80
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 454
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c2bce871cb58080800000000000000
+      internalID: -9185729055586309052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_81
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 436
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6d310e326e70150800000000000000
+      internalID: 5838888483666777809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_82
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 432
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f20cc162ba7ff20800000000000000
+      internalID: 3456419419209609109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_83
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 437
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3035ff25c8cc070800000000000000
+      internalID: 8128025715595740086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_84
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 412
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b3056a9c9b11c80800000000000000
+      internalID: -8353691558065718397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_85
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 408
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3349518a6bb3336a0800000000000000
+      internalID: -6470762583911197645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_86
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 406
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a827d54d7727ec80800000000000000
+      internalID: -8293616769783355225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_87
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 408
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355769d1184befb50800000000000000
+      internalID: 6628934168176129363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_88
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 415
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207f03cdf5c33d4c0800000000000000
+      internalID: -4263998039775971582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_89
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 413
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd1b47f583a62d50800000000000000
+      internalID: 6712232090417176013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_90
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 413
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ac2fff56b292b00800000000000000
+      internalID: 804221725548137096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_91
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 413
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6008ddb5c2c49040800000000000000
+      internalID: 4653558469529960559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_92
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 381
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db838010667f70160800000000000000
+      internalID: 6991828963992025277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_93
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 381
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d52ea161e0f2300800000000000000
+      internalID: 229417594122296679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_94
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 381
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca314a62198b0bf0800000000000000
+      internalID: -357041033260746037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_95
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 391
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce8bbf36adf71750800000000000000
+      internalID: 6275763496239730374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_96
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 391
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d375f8205f4a7b0800000000000000
+      internalID: -5213773077244592823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_97
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 390
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90133cd486dd8f0e0800000000000000
+      internalID: -2235793774938476279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_98
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 390
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ad3d138bc16fa40800000000000000
+      internalID: 5401536380513016344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_99
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 381
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9addafe8049cc5a90800000000000000
+      internalID: -7323757614897373783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_100
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 381
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767c2fcc1a27fc210800000000000000
+      internalID: 1355428052115572583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_101
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 381
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87f01f62f9035da0800000000000000
+      internalID: -5957406945230915701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_102
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 388
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1317660ea4f6e350800000000000000
+      internalID: 6045788578060374811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_103
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 384
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b776305a0e54f30800000000000000
+      internalID: 4559297197113834382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_104
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 382
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804049bf2b06c05a0800000000000000
+      internalID: -6553757035889687544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_105
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 384
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8470fcc1627c9f820800000000000000
+      internalID: 2952609997224085320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_106
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 322
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdecb28c9767bd20800000000000000
+      internalID: 3294215574350786037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_107
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 322
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a741b2910f9e1a00800000000000000
+      internalID: 729195018785474468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_108
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 322
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749bd349a3ac5d570800000000000000
+      internalID: 8490915025420925255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_109
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 390
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5703ba21c084a690800000000000000
+      internalID: -7591801504706394275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_110
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 397
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5116c7d8d2364aa0800000000000000
+      internalID: -6177193931977649825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_111
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 397
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc558b980fb31aa0800000000000000
+      internalID: -6191395019014447873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_112
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 397
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32e10291bdc54c10800000000000000
+      internalID: 2037260568997519930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_113
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 380
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3267f4270319e620800000000000000
+      internalID: 2803793164420735549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_114
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 359
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5f7634d9fd6b870800000000000000
+      internalID: 8698385596846437853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_115
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 351
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71d7499f8e4159c0800000000000000
+      internalID: -3940281820313562755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_116
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 322
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12eca18dd7d8d3020800000000000000
+      internalID: 2323168554429107745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_117
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 315
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b8dbf55f67f4fb0800000000000000
+      internalID: -4661376293059851430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_118
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 315
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8760656f47190d820800000000000000
+      internalID: 2941010488208000632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_119
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 315
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c575d7ff92a2fc0800000000000000
+      internalID: -3518953981540344817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_120
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 365
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38793152b68d2810800000000000000
+      internalID: 1742196731287271483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 330
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73263b0d555b53870800000000000000
+      internalID: 8662028838495281719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_122
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 331
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbb461a518b79740800000000000000
+      internalID: 5158794301217749974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_123
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 344
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662068313bfe58790800000000000000
+      internalID: -7528347649674182042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_124
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 301
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163aa22864538a7f0800000000000000
+      internalID: -601171973306145951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_125
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 323
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2862ec169e250410800000000000000
+      internalID: 1442610477906683949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_126
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 249
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5565780845eaef30800000000000000
+      internalID: 4605745666482070879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_127
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 249
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98b818ae8d0c53b0800000000000000
+      internalID: -5522524136706361185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_128
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 278
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4d58cd49ff24c80800000000000000
+      internalID: -8339822545116736275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_129
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 290
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d44175a52ae8d00800000000000000
+      internalID: 976896678077680930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_130
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 249
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33f0a31aad95e910800000000000000
+      internalID: 1866070974414254906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_131
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 282
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910a99a391a131b00800000000000000
+      internalID: 798010254634360857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_132
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 294
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d490c5d9b0d179b90800000000000000
+      internalID: -7235282340625512115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_133
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 264
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397d31e75ddad9320800000000000000
+      internalID: 2566398495125919635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_134
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 265
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a48876b490672c0800000000000000
+      internalID: -4434346563635492270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_135
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 258
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6721b820eaca40870800000000000000
+      internalID: 8648227047825150582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_136
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 259
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd78e3a1cbd657d0800000000000000
+      internalID: -2929912882832835116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_137
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 258
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25a0887ff5146c90800000000000000
+      internalID: -7177587719139187414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_138
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 257
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a882a69e64d3a40800000000000000
+      internalID: 5349509900708383298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_139
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 296
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1dbe7915b2563b0800000000000000
+      internalID: -5519958138831515186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_140
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 268
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648a1dd587a539dc0800000000000000
+      internalID: -3633461001341261754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_141
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 265
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b735763adc87c810800000000000000
+      internalID: 1785550646120101817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_142
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 275
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee17bccd1dd3f7480800000000000000
+      internalID: -8899326367099031058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_143
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 279
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2023ead1cd9eda5c0800000000000000
+      internalID: -4202445745666772478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_144
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 286
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ca4e4edd7aa2190800000000000000
+      internalID: -7986386417718350734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_145
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 259
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae7d8cea8f6d3150800000000000000
+      internalID: 5853957733116378796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_146
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 247
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9917a4b5ec55c7010800000000000000
+      internalID: 1187918746502197657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_147
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 239
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdaef1b394b12190800000000000000
+      internalID: -7988905717539099188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_148
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 240
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf20ae4b92796f20800000000000000
+      internalID: 3416387803701850063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_149
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 159
+        width: 74
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72fb5f9e874aa030800000000000000
+      internalID: 3506693937745883775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_150
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 162
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b571ee61e1ab7990800000000000000
+      internalID: -7387132774171183688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_151
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 165
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589ec1fd781c24f10800000000000000
+      internalID: 2252575552946628997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_152
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 166
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5d89c2f9c1a4fe0800000000000000
+      internalID: -1204118480394594890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_153
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 165
+        width: 85
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c905c46af8cdf10800000000000000
+      internalID: 2295867854459804776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_154
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 164
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5485cb2d5510ea0800000000000000
+      internalID: -5908346872541985344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_155
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 198
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1b15965dda698b0800000000000000
+      internalID: -5145734392117612089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_156
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 221
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e815944c8c8298910800000000000000
+      internalID: 1840046765509267854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_157
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 237
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5d72566bc4b9ee0800000000000000
+      internalID: -1253323725027682876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_158
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 226
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1bcfd0392b26040800000000000000
+      internalID: 4639466910809633220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_159
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 203
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807f94ecc85786e90800000000000000
+      internalID: -7032241570522204408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_160
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 194
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620367cc8fde74580800000000000000
+      internalID: -8842837690480709594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_161
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 203
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17ce439b189bcb80800000000000000
+      internalID: -8373431837962352865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_162
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 209
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c87034b1048902d0800000000000000
+      internalID: -3311970908101379896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_163
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 205
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cc6e1a323f838b0800000000000000
+      internalID: -5172116837669352339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_164
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 209
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688c39e9920ec7df0800000000000000
+      internalID: -181023415642896250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_165
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 205
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b24c0a1646563a0800000000000000
+      internalID: -6672816902407705830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_166
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 169
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99999902f35a24b20800000000000000
+      internalID: 3117235582642264473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_167
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 207
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e922ed6db1c2720800000000000000
+      internalID: 2822661676118220440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_168
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 200
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbb8eb8ca5cdf290800000000000000
+      internalID: -7854904830191944720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_169
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 169
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b304146f1153c310800000000000000
+      internalID: 1424071102444078009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_170
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 195
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22fbb2df4a2b8fb0800000000000000
+      internalID: -4644572068376219093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_171
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 147
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766efa73119234280800000000000000
+      internalID: -9060352871413848473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_172
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 185
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5bf83d78ccd4640800000000000000
+      internalID: 5065930039603738097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_173
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 187
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756c4e4efea50d240800000000000000
+      internalID: 4814447988042942039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_174
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 185
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b820f64ae8b3bee10800000000000000
+      internalID: 2227939924494975627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_175
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 191
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120c4d5b716950b40800000000000000
+      internalID: 5405891956307181601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_176
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 185
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbc9095b4980a780800000000000000
+      internalID: -8673781925606208528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_177
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 180
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bd69f881f66ea30800000000000000
+      internalID: 4244201850122197785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_178
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 180
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1394a739c6a259b0800000000000000
+      internalID: -5092824845450439910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_179
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 174
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2396f891196bc1e10800000000000000
+      internalID: 2169809854801078578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_180
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 160
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c55a057fac34cac0800000000000000
+      internalID: -3835874258332265018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_181
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 162
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3b6a86ac64a8400800000000000000
+      internalID: 327151758090875843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_182
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 160
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7750eb58ac5ccb70800000000000000
+      internalID: 8920606840079800190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_183
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 156
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4db0ce5b06cebe0800000000000000
+      internalID: -1446675045827226445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_184
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 141
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703f877225a542730800000000000000
+      internalID: 3973400080143676167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_185
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 144
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c0804a5cc84b5b0800000000000000
+      internalID: -5353499276548240338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_186
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 149
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b36d2dc90fca6740800000000000000
+      internalID: 5146153165228172213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_187
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 142
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c685326c9bf6f840800000000000000
+      internalID: 5257666264082777797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_188
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 69
+        width: 74
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a06fa7ee415a790800000000000000
+      internalID: -7519580988327458289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_189
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 69
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e11e8b38428a720800000000000000
+      internalID: 2857574111727656478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_190
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 74
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b7f25a93504f2b0800000000000000
+      internalID: -5551806695498351869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_191
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 152
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54530e904ca8e750800000000000000
+      internalID: 6334502269425505374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_192
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 152
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d579ed7bf37fed60800000000000000
+      internalID: 7921677793554429398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_193
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 135
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928c0bc5964f152e0800000000000000
+      internalID: -2138659614660442071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_194
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 148
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0fca14db1409b20800000000000000
+      internalID: 3139081221383712989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_195
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 140
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b58fa2b4d4ff850800000000000000
+      internalID: 6412929379637681043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_196
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 69
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6d7e2ad39461120800000000000000
+      internalID: 2384173581814191794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_197
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 76
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036d1b05c04bd1eb0800000000000000
+      internalID: -4747440467192195536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_198
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 75
+        width: 85
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf4d59441e75c6c0800000000000000
+      internalID: -4123751258192523339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_199
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 65
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c979f5325744b090800000000000000
+      internalID: -8019706618021578304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_200
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 125
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c444e8935821ca0800000000000000
+      internalID: -6047624867358684075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_201
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 134
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56159683f7baafba0800000000000000
+      internalID: -6054338186150588059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_202
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 143
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de42ed325cca476a0800000000000000
+      internalID: -6452342403404782355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_203
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 139
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5fee1ffaf7a80f0800000000000000
+      internalID: -1113937564165802578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_204
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 127
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea45dc6a7349b3b0800000000000000
+      internalID: -5496287677137990931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_205
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 131
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdca3324b1afb6f0800000000000000
+      internalID: -666636424770302480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_206
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 106
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db272d9fab50b0f0800000000000000
+      internalID: -1103281098891777064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_207
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 110
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c447c13cd26e1f880800000000000000
+      internalID: -8578822730942745524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_208
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 113
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffcf655281e70540800000000000000
+      internalID: 4974192263349391344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_209
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 119
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b7955366d9ea810800000000000000
+      internalID: 1778531965165206318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_210
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 110
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85574cd219b623e30800000000000000
+      internalID: 4481762850469344600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_211
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 100
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697a1590cef1e1790800000000000000
+      internalID: -7557568026052024426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_212
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 93
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9567ca260c60a15d0800000000000000
+      internalID: -3091150770877467047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_213
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 104
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd86c1a8ed4454790800000000000000
+      internalID: -7546549877998851875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_214
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 91
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9cdb589efa83d90800000000000000
+      internalID: -7117745793553020452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_215
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 107
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873a79e40093c7b90800000000000000
+      internalID: -7242851427237256328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_216
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 91
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99c9a609db3b0a20800000000000000
+      internalID: 3029580977642523037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_217
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 105
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ae75882245d38e0800000000000000
+      internalID: -1712119776037836216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_218
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 99
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835f964e52b87c4d0800000000000000
+      internalID: -3114367622441208520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_219
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 93
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec52b0f6d4c093dc0800000000000000
+      internalID: -3658879695546800690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_220
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 84
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345845104c0ba3430800000000000000
+      internalID: 3763514794503865667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_221
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 69
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ab7175811579a80800000000000000
+      internalID: -8460204210009949547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_222
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 75
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e603a37924e4e9e0800000000000000
+      internalID: -1592897501497456920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_223
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 80
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bab4e768203ae50800000000000000
+      internalID: 6819297037436824334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_224
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 73
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f61fbab9cc0f78d0800000000000000
+      internalID: -2846542378913818896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_225
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 75
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f91353aaaec59030800000000000000
+      internalID: 3500931517630323184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_226
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 63
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f03e2c16fecbdd0800000000000000
+      internalID: -2468835292545347699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_227
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 69
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b971f1a2a825e50800000000000000
+      internalID: 6796646701170400020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_228
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 53
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32241c53bc0eb46b0800000000000000
+      internalID: -5310904172168527325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_229
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 72
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5a421f2c06df7b0800000000000000
+      internalID: -5188884805275310637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_230
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 63
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7287e33029402faf0800000000000000
+      internalID: -364223594697426905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_231
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 70
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a652e0156fa98d400800000000000000
+      internalID: 349199353833727338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_232
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 62
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae1052f6373fa6a0800000000000000
+      internalID: -6435864633356050777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_233
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 59
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7003a7374cad030800000000000000
+      internalID: 3520342058993715109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_234
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 57
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6c8c27cc83c7b90800000000000000
+      internalID: -7242851649968355592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_235
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b844f2775a9fd90800000000000000
+      internalID: -7063432609241199720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_236
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 18
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1709c8dc22ff82cb0800000000000000
+      internalID: -4888376870568161167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_237
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 48
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b7a601d37a93a30800000000000000
+      internalID: 4195568408582585092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_238
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 45
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7122aab91d19b2ae0800000000000000
+      internalID: -1573003315390045673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_239
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 47
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34da84a37b8ce0510800000000000000
+      internalID: 1517370813752847683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_240
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 47
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383f56aef4e154ca0800000000000000
+      internalID: -6033382797209111677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_241
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 46
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b830cf19287be3ed0800000000000000
+      internalID: -2432304977310645365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_242
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 36
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1731a46eb4e5d50800000000000000
+      internalID: 6727898345795449300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_243
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 32
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07d0e9fc406902a0800000000000000
+      internalID: -6770774681048787188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_244
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 53
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcdc762005e162f0800000000000000
+      internalID: -981251454981579528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_245
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 63
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3e8e5a0166e4290800000000000000
+      internalID: -7904268074299628592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_246
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 58
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07ed928ce1c7c060800000000000000
+      internalID: 6973755769554331406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_247
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 48
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25fce98c68dc13c0800000000000000
+      internalID: -4387393976283630293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_248
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f88a920dff3ec810800000000000000
+      internalID: 1787436458015623411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_249
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 37
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2494d0c5adca00d0800000000000000
+      internalID: -3455723652264979413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_250
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b06bf86646abb780800000000000000
+      internalID: -8666150236605161294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_251
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 16
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a5536e50cfaddd0800000000000000
+      internalID: -2460377144137262580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_252
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 22
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1799914c7715d51e0800000000000000
+      internalID: -2207518667508704911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_253
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 16
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b419db12fc44d8330800000000000000
+      internalID: 3714700924065517899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_254
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 21
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7303ef8fffffd5c60800000000000000
+      internalID: 7808678803789459511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_255
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 46
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02932ed20986e5bf0800000000000000
+      internalID: -333714353924458208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_256
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 36
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b59627f6bd3cf40800000000000000
+      internalID: 5747678821162244896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_257
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 38
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddd7ff7d9bdaf580800000000000000
+      internalID: -8792473852984173092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_258
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 36
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694bd81021b99b7d0800000000000000
+      internalID: -2902117983225793386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_259
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 41
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440ee2851619abd50800000000000000
+      internalID: 6753870438472802372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_260
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 43
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78b5b990bff275b0800000000000000
+      internalID: -5371950271541430150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_261
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 41
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aac849a20e6833d0800000000000000
+      internalID: -3226708175301850455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_262
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 42
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc913052194178150800000000000000
+      internalID: 5874686852551875020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_263
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 43
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd6d27f16ae8b6f0800000000000000
+      internalID: -668526838184841790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_264
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 49
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fbfd17c73549db0800000000000000
+      internalID: -4786108710036455620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_265
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 36
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e53adf0d6709ddd0800000000000000
+      internalID: -2460927556382476830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_266
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 45
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b3c9f60cb1557d0800000000000000
+      internalID: -2930405469214459061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_267
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 38
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c610d0444e0977480800000000000000
+      internalID: -8901486828405849748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_268
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8921fe90584780720800000000000000
+      internalID: 2812626082039009944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_269
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 18
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7a6e6a66f74c030800000000000000
+      internalID: 3514073688119355348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_270
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 6
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414f16afbd45e2fc0800000000000000
+      internalID: -3517780955154484204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_271
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 25
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8598d3b89dafe10800000000000000
+      internalID: 2232335757371594949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_272
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 24
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc6c183bf4825290800000000000000
+      internalID: -7903108181568754471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_273
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 23
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf5c10c968910980800000000000000
+      internalID: -8574404635574640675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_274
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 23
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916d9719953752d40800000000000000
+      internalID: 5558976143588709913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_275
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 5
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904da7741bc36de20800000000000000
+      internalID: 3374951702866875401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_276
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 31
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445e1eccdacc1f520800000000000000
+      internalID: 2734191495629366596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_277
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 31
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e18426751ec41d0800000000000000
+      internalID: -3365067056125305187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_278
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 33
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec808e5e46cd00f0800000000000000
+      internalID: -1149044290014376732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_279
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 33
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f2aae665e74b650800000000000000
+      internalID: 6247757492758654793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_280
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 25
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4eb650b3c9531d0800000000000000
+      internalID: -3371616968708987703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_281
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 29
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bff543290374ff0800000000000000
+      internalID: -52019466189407375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_282
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 16
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f935648dc4b66480800000000000000
+      internalID: -8906232418296055308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_283
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 26
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1913aebacdbad4b0800000000000000
+      internalID: -5414806923480196835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_284
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 24
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f881dbfc42edc5e0800000000000000
+      internalID: -1887603848528164615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_285
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 25
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbbd6f0f2c4ca550800000000000000
+      internalID: 6173392954224131028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_286
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 15
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed2eefd1e77fb430800000000000000
+      internalID: 3800888422532263394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_287
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 15
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907c2fd4cf9758af0800000000000000
+      internalID: -394775267778574583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_288
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 25
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ff667c21d1f3080800000000000000
+      internalID: -9205607146829971602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_289
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 26
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c71fb66f54a31a0800000000000000
+      internalID: -6829068960278676345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_290
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 26
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1a8e019f4fa6700800000000000000
+      internalID: 534508856364540347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_291
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 15
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b2d8c892bc4d2d0800000000000000
+      internalID: -3254753251369866337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_292
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 17
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5b7d45d3d3b78c0800000000000000
+      internalID: -4000536510362831456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_293
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 14
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fd1bf64f357bbf0800000000000000
+      internalID: -308685740140535928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_294
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 4
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4ffcba3e3fb9da0800000000000000
+      internalID: -5936883524592208660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_295
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 14
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25020542fa37c9340800000000000000
+      internalID: 4871896092973736018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_296
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 16
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a046dec10b0bc0960800000000000000
+      internalID: 7569619344149013514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_297
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 14
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677092c2d166c2ad0800000000000000
+      internalID: -2725691398985021578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_298
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 16
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f352ff9dd7912a0d0800000000000000
+      internalID: -3413137539274431169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_299
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 14
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012f6869b0e4a49c0800000000000000
+      internalID: -3942252712132414960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_300
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130ca048f65462b10800000000000000
+      internalID: 1956327433398042673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_301
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 8
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1af7821607a41a30800000000000000
+      internalID: 4185153598256577052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_302
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 6
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130afddd643a954a0800000000000000
+      internalID: -6604067853796663247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_303
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 5
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4fd7815d94c2620800000000000000
+      internalID: 2750654652004300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_304
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fe9e5ab344e7fa0800000000000000
+      internalID: -5801124247029289114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_305
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 5
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25c0b810246ff0c0800000000000000
+      internalID: -4539799810350201554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muki_306
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 5
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7efd47be370060e0800000000000000
+      internalID: -2278813445504762241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      muki_0: 6945306555380672730
+      muki_1: 7700335846695410847
+      muki_10: 5338922752086042018
+      muki_100: 1355428052115572583
+      muki_101: -5957406945230915701
+      muki_102: 6045788578060374811
+      muki_103: 4559297197113834382
+      muki_104: -6553757035889687544
+      muki_105: 2952609997224085320
+      muki_106: 3294215574350786037
+      muki_107: 729195018785474468
+      muki_108: 8490915025420925255
+      muki_109: -7591801504706394275
+      muki_11: -1035318999827583516
+      muki_110: -6177193931977649825
+      muki_111: -6191395019014447873
+      muki_112: 2037260568997519930
+      muki_113: 2803793164420735549
+      muki_114: 8698385596846437853
+      muki_115: -3940281820313562755
+      muki_116: 2323168554429107745
+      muki_117: -4661376293059851430
+      muki_118: 2941010488208000632
+      muki_119: -3518953981540344817
+      muki_12: -3863159272175566636
+      muki_120: 1742196731287271483
+      muki_121: 8662028838495281719
+      muki_122: 5158794301217749974
+      muki_123: -7528347649674182042
+      muki_124: -601171973306145951
+      muki_125: 1442610477906683949
+      muki_126: 4605745666482070879
+      muki_127: -5522524136706361185
+      muki_128: -8339822545116736275
+      muki_129: 976896678077680930
+      muki_13: 4595540931739826126
+      muki_130: 1866070974414254906
+      muki_131: 798010254634360857
+      muki_132: -7235282340625512115
+      muki_133: 2566398495125919635
+      muki_134: -4434346563635492270
+      muki_135: 8648227047825150582
+      muki_136: -2929912882832835116
+      muki_137: -7177587719139187414
+      muki_138: 5349509900708383298
+      muki_139: -5519958138831515186
+      muki_14: 6104293490121150252
+      muki_140: -3633461001341261754
+      muki_141: 1785550646120101817
+      muki_142: -8899326367099031058
+      muki_143: -4202445745666772478
+      muki_144: -7986386417718350734
+      muki_145: 5853957733116378796
+      muki_146: 1187918746502197657
+      muki_147: -7988905717539099188
+      muki_148: 3416387803701850063
+      muki_149: 3506693937745883775
+      muki_15: -7236259325518077205
+      muki_150: -7387132774171183688
+      muki_151: 2252575552946628997
+      muki_152: -1204118480394594890
+      muki_153: 2295867854459804776
+      muki_154: -5908346872541985344
+      muki_155: -5145734392117612089
+      muki_156: 1840046765509267854
+      muki_157: -1253323725027682876
+      muki_158: 4639466910809633220
+      muki_159: -7032241570522204408
+      muki_16: 5708714083385579921
+      muki_160: -8842837690480709594
+      muki_161: -8373431837962352865
+      muki_162: -3311970908101379896
+      muki_163: -5172116837669352339
+      muki_164: -181023415642896250
+      muki_165: -6672816902407705830
+      muki_166: 3117235582642264473
+      muki_167: 2822661676118220440
+      muki_168: -7854904830191944720
+      muki_169: 1424071102444078009
+      muki_17: 4948559385016487635
+      muki_170: -4644572068376219093
+      muki_171: -9060352871413848473
+      muki_172: 5065930039603738097
+      muki_173: 4814447988042942039
+      muki_174: 2227939924494975627
+      muki_175: 5405891956307181601
+      muki_176: -8673781925606208528
+      muki_177: 4244201850122197785
+      muki_178: -5092824845450439910
+      muki_179: 2169809854801078578
+      muki_18: 6913126656458766976
+      muki_180: -3835874258332265018
+      muki_181: 327151758090875843
+      muki_182: 8920606840079800190
+      muki_183: -1446675045827226445
+      muki_184: 3973400080143676167
+      muki_185: -5353499276548240338
+      muki_186: 5146153165228172213
+      muki_187: 5257666264082777797
+      muki_188: -7519580988327458289
+      muki_189: 2857574111727656478
+      muki_19: -8905032647758553013
+      muki_190: -5551806695498351869
+      muki_191: 6334502269425505374
+      muki_192: 7921677793554429398
+      muki_193: -2138659614660442071
+      muki_194: 3139081221383712989
+      muki_195: 6412929379637681043
+      muki_196: 2384173581814191794
+      muki_197: -4747440467192195536
+      muki_198: -4123751258192523339
+      muki_199: -8019706618021578304
+      muki_2: 7187822922273557309
+      muki_20: -8169311161014316866
+      muki_200: -6047624867358684075
+      muki_201: -6054338186150588059
+      muki_202: -6452342403404782355
+      muki_203: -1113937564165802578
+      muki_204: -5496287677137990931
+      muki_205: -666636424770302480
+      muki_206: -1103281098891777064
+      muki_207: -8578822730942745524
+      muki_208: 4974192263349391344
+      muki_209: 1778531965165206318
+      muki_21: -4597448033082440225
+      muki_210: 4481762850469344600
+      muki_211: -7557568026052024426
+      muki_212: -3091150770877467047
+      muki_213: -7546549877998851875
+      muki_214: -7117745793553020452
+      muki_215: -7242851427237256328
+      muki_216: 3029580977642523037
+      muki_217: -1712119776037836216
+      muki_218: -3114367622441208520
+      muki_219: -3658879695546800690
+      muki_22: -4115237879296342211
+      muki_220: 3763514794503865667
+      muki_221: -8460204210009949547
+      muki_222: -1592897501497456920
+      muki_223: 6819297037436824334
+      muki_224: -2846542378913818896
+      muki_225: 3500931517630323184
+      muki_226: -2468835292545347699
+      muki_227: 6796646701170400020
+      muki_228: -5310904172168527325
+      muki_229: -5188884805275310637
+      muki_23: 7393372511304651002
+      muki_230: -364223594697426905
+      muki_231: 349199353833727338
+      muki_232: -6435864633356050777
+      muki_233: 3520342058993715109
+      muki_234: -7242851649968355592
+      muki_235: -7063432609241199720
+      muki_236: -4888376870568161167
+      muki_237: 4195568408582585092
+      muki_238: -1573003315390045673
+      muki_239: 1517370813752847683
+      muki_24: -5201463744570729945
+      muki_240: -6033382797209111677
+      muki_241: -2432304977310645365
+      muki_242: 6727898345795449300
+      muki_243: -6770774681048787188
+      muki_244: -981251454981579528
+      muki_245: -7904268074299628592
+      muki_246: 6973755769554331406
+      muki_247: -4387393976283630293
+      muki_248: 1787436458015623411
+      muki_249: -3455723652264979413
+      muki_25: -5766353799674152634
+      muki_250: -8666150236605161294
+      muki_251: -2460377144137262580
+      muki_252: -2207518667508704911
+      muki_253: 3714700924065517899
+      muki_254: 7808678803789459511
+      muki_255: -333714353924458208
+      muki_256: 5747678821162244896
+      muki_257: -8792473852984173092
+      muki_258: -2902117983225793386
+      muki_259: 6753870438472802372
+      muki_26: 6590514875539907676
+      muki_260: -5371950271541430150
+      muki_261: -3226708175301850455
+      muki_262: 5874686852551875020
+      muki_263: -668526838184841790
+      muki_264: -4786108710036455620
+      muki_265: -2460927556382476830
+      muki_266: -2930405469214459061
+      muki_267: -8901486828405849748
+      muki_268: 2812626082039009944
+      muki_269: 3514073688119355348
+      muki_27: -153756276089254009
+      muki_270: -3517780955154484204
+      muki_271: 2232335757371594949
+      muki_272: -7903108181568754471
+      muki_273: -8574404635574640675
+      muki_274: 5558976143588709913
+      muki_275: 3374951702866875401
+      muki_276: 2734191495629366596
+      muki_277: -3365067056125305187
+      muki_278: -1149044290014376732
+      muki_279: 6247757492758654793
+      muki_28: -5862547750667136948
+      muki_280: -3371616968708987703
+      muki_281: -52019466189407375
+      muki_282: -8906232418296055308
+      muki_283: -5414806923480196835
+      muki_284: -1887603848528164615
+      muki_285: 6173392954224131028
+      muki_286: 3800888422532263394
+      muki_287: -394775267778574583
+      muki_288: -9205607146829971602
+      muki_289: -6829068960278676345
+      muki_29: 6738865045316034983
+      muki_290: 534508856364540347
+      muki_291: -3254753251369866337
+      muki_292: -4000536510362831456
+      muki_293: -308685740140535928
+      muki_294: -5936883524592208660
+      muki_295: 4871896092973736018
+      muki_296: 7569619344149013514
+      muki_297: -2725691398985021578
+      muki_298: -3413137539274431169
+      muki_299: -3942252712132414960
+      muki_3: -1059645328810720427
+      muki_30: -7519368703503421638
+      muki_300: 1956327433398042673
+      muki_301: 4185153598256577052
+      muki_302: -6604067853796663247
+      muki_303: 2750654652004300026
+      muki_304: -5801124247029289114
+      muki_305: -4539799810350201554
+      muki_306: -2278813445504762241
+      muki_31: -8340836220271784939
+      muki_32: 6906716085448408678
+      muki_33: 4970722178160464437
+      muki_34: 4936274307070759313
+      muki_35: 5779691589996095305
+      muki_36: 4133796948756725860
+      muki_37: 4723224042921152052
+      muki_38: -4924370652564270932
+      muki_39: -5148894858848980761
+      muki_4: -1647528387541800200
+      muki_40: -5927739817760767121
+      muki_41: 3114292371833374499
+      muki_42: -3946569168293290238
+      muki_43: -1696978900600532392
+      muki_44: 2233904021729750613
+      muki_45: 2943137583143091139
+      muki_46: 4236877889380619849
+      muki_47: 907107392964022640
+      muki_48: -6509741094340404841
+      muki_49: 6164270507452662530
+      muki_5: 1051548724267435331
+      muki_50: -5476492526644528268
+      muki_51: 1808549768062075388
+      muki_52: 341419769683310967
+      muki_53: -2543302656911278827
+      muki_54: -3537177490444805225
+      muki_55: 139519882491466601
+      muki_56: -203724432810848683
+      muki_57: 7749064727882805007
+      muki_58: 3704427586007930532
+      muki_59: -1962661150133460483
+      muki_6: -3542966502174882951
+      muki_60: 7800836933479895514
+      muki_61: -6934695240003035289
+      muki_62: -3660387616357516478
+      muki_63: -9060878689185220009
+      muki_64: 3203905714729626513
+      muki_65: 4190817606817232487
+      muki_66: 5141656847709612457
+      muki_67: 7397762926662363300
+      muki_68: -447144925138136313
+      muki_69: 6123873493634010354
+      muki_7: -6549713023409585622
+      muki_70: -268487919896315457
+      muki_71: -3402038210577685410
+      muki_72: -6263286484832758043
+      muki_73: 7150192347958517046
+      muki_74: -7665601962010735068
+      muki_75: 3799542319848674720
+      muki_76: -2866579861411043673
+      muki_77: 1576634475071380967
+      muki_78: 3298754038528531928
+      muki_79: -3544924607431139297
+      muki_8: -1192687712633988554
+      muki_80: -9185729055586309052
+      muki_81: 5838888483666777809
+      muki_82: 3456419419209609109
+      muki_83: 8128025715595740086
+      muki_84: -8353691558065718397
+      muki_85: -6470762583911197645
+      muki_86: -8293616769783355225
+      muki_87: 6628934168176129363
+      muki_88: -4263998039775971582
+      muki_89: 6712232090417176013
+      muki_9: -6182113925147055579
+      muki_90: 804221725548137096
+      muki_91: 4653558469529960559
+      muki_92: 6991828963992025277
+      muki_93: 229417594122296679
+      muki_94: -357041033260746037
+      muki_95: 6275763496239730374
+      muki_96: -5213773077244592823
+      muki_97: -2235793774938476279
+      muki_98: 5401536380513016344
+      muki_99: -7323757614897373783
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

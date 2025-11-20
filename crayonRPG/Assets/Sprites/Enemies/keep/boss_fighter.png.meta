@@ -1,0 +1,1677 @@
+fileFormatVersion: 2
+guid: 92ba7db77c923dc4dba2d4627502f98c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5120206463651186735
+    second: boss_fighter_0
+  - first:
+      213: -184941945603089502
+    second: boss_fighter_1
+  - first:
+      213: 713538750250010354
+    second: boss_fighter_2
+  - first:
+      213: 920291354095663279
+    second: boss_fighter_3
+  - first:
+      213: 4436914851522698938
+    second: boss_fighter_4
+  - first:
+      213: 3024983329764684837
+    second: boss_fighter_5
+  - first:
+      213: 3921217555266851867
+    second: boss_fighter_6
+  - first:
+      213: 2808899606686122610
+    second: boss_fighter_7
+  - first:
+      213: -6116551100258325068
+    second: boss_fighter_8
+  - first:
+      213: -505272719638088878
+    second: boss_fighter_9
+  - first:
+      213: 6988907069791217960
+    second: boss_fighter_10
+  - first:
+      213: -8371063443820700962
+    second: boss_fighter_11
+  - first:
+      213: -2051115954631363078
+    second: boss_fighter_12
+  - first:
+      213: 2309130560063999639
+    second: boss_fighter_13
+  - first:
+      213: 1657174885768206783
+    second: boss_fighter_14
+  - first:
+      213: -2887606313383465093
+    second: boss_fighter_15
+  - first:
+      213: -5538154437654921167
+    second: boss_fighter_16
+  - first:
+      213: 1540062783090076954
+    second: boss_fighter_17
+  - first:
+      213: 3241618350981622574
+    second: boss_fighter_18
+  - first:
+      213: -2149338041502694695
+    second: boss_fighter_19
+  - first:
+      213: 3374499785971963386
+    second: boss_fighter_20
+  - first:
+      213: 3459298144345513886
+    second: boss_fighter_21
+  - first:
+      213: 3905718204512323879
+    second: boss_fighter_22
+  - first:
+      213: -8800456570155845966
+    second: boss_fighter_23
+  - first:
+      213: -2594888091628215968
+    second: boss_fighter_24
+  - first:
+      213: -8931542384655631489
+    second: boss_fighter_25
+  - first:
+      213: -2626456552313956588
+    second: boss_fighter_26
+  - first:
+      213: 1864734861598287961
+    second: boss_fighter_27
+  - first:
+      213: -3964291759927765617
+    second: boss_fighter_28
+  - first:
+      213: -4204126530422598777
+    second: boss_fighter_29
+  - first:
+      213: 651114133721069048
+    second: boss_fighter_30
+  - first:
+      213: 6406355316576524496
+    second: boss_fighter_31
+  - first:
+      213: -1323649093738028974
+    second: boss_fighter_32
+  - first:
+      213: -1749419844736071291
+    second: boss_fighter_33
+  - first:
+      213: 4496077664914985018
+    second: boss_fighter_34
+  - first:
+      213: 896640808584521576
+    second: boss_fighter_35
+  - first:
+      213: -2281050836376347411
+    second: boss_fighter_36
+  - first:
+      213: 3223743399816520336
+    second: boss_fighter_37
+  - first:
+      213: -7755080678129073159
+    second: boss_fighter_38
+  - first:
+      213: 4367343515675942396
+    second: boss_fighter_39
+  - first:
+      213: 5154136546231979151
+    second: boss_fighter_40
+  - first:
+      213: 849717898836715910
+    second: boss_fighter_41
+  - first:
+      213: 1148174179784914662
+    second: boss_fighter_42
+  - first:
+      213: 3564626600591779540
+    second: boss_fighter_43
+  - first:
+      213: -5475597632828702113
+    second: boss_fighter_44
+  - first:
+      213: -1527780270242901127
+    second: boss_fighter_45
+  - first:
+      213: 4205444965030315777
+    second: boss_fighter_46
+  - first:
+      213: -459632367944609725
+    second: boss_fighter_47
+  - first:
+      213: 6168562595555188667
+    second: boss_fighter_48
+  - first:
+      213: -2709075062558002563
+    second: boss_fighter_49
+  - first:
+      213: -3657472990387538597
+    second: boss_fighter_50
+  - first:
+      213: -2219805980746556728
+    second: boss_fighter_51
+  - first:
+      213: -8702658455128305471
+    second: boss_fighter_52
+  - first:
+      213: 9026259289285109441
+    second: boss_fighter_53
+  - first:
+      213: -7610718541633843985
+    second: boss_fighter_54
+  - first:
+      213: 2928503866602651928
+    second: boss_fighter_55
+  - first:
+      213: 4347305618464817426
+    second: boss_fighter_56
+  - first:
+      213: -5918370009114569636
+    second: boss_fighter_57
+  - first:
+      213: 2062516156605523280
+    second: boss_fighter_58
+  - first:
+      213: -7286008019503294725
+    second: boss_fighter_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss_fighter_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 793
+        width: 95
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7796d695f51f8b0800000000000000
+      internalID: -5120206463651186735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 793
+        width: 95
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab1244c744fe6df0800000000000000
+      internalID: -184941945603089502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 793
+        width: 95
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6c02e76bff6e900800000000000000
+      internalID: 713538750250010354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 793
+        width: 95
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa83cb25c1885cc00800000000000000
+      internalID: 920291354095663279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_4
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 627
+        width: 84
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe5aa7bc86139d30800000000000000
+      internalID: 4436914851522698938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_5
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 793
+        width: 95
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5243a16bf46eaf920800000000000000
+      internalID: 3024983329764684837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_6
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 793
+        width: 95
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14d4bc4796fa6630800000000000000
+      internalID: 3921217555266851867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 635
+        width: 73
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272c2426f473bf620800000000000000
+      internalID: 2808899606686122610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 627
+        width: 78
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bde3926e25ad1ba0800000000000000
+      internalID: -6116551100258325068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 635
+        width: 84
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253b6477329ecf8f0800000000000000
+      internalID: -505272719638088878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_10
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 627
+        width: 71
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8292f1f73f59df060800000000000000
+      internalID: 6988907069791217960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_11
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 638
+        width: 120
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda1fce462204db80800000000000000
+      internalID: -8371063443820700962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_12
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 627
+        width: 95
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5bf0318e8f883e0800000000000000
+      internalID: -2051115954631363078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 476
+        width: 109
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e0d94920eab0020800000000000000
+      internalID: 2309130560063999639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_14
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 476
+        width: 97
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb999ec47c77ff610800000000000000
+      internalID: 1657174885768206783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_15
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 527
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f6a9f6b592de7d0800000000000000
+      internalID: -2887606313383465093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_16
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 476
+        width: 157
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1304350a1e58423b0800000000000000
+      internalID: -5538154437654921167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_17
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 527
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d22ed01f66f5510800000000000000
+      internalID: 1540062783090076954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_18
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 527
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ba5a327ba8cfc20800000000000000
+      internalID: 3241618350981622574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_19
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 476
+        width: 148
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d28ffd50740c22e0800000000000000
+      internalID: -2149338041502694695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_20
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 527
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af59d7d2da1a4de20800000000000000
+      internalID: 3374499785971963386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_21
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 527
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fd1e98555e10030800000000000000
+      internalID: 3459298144345513886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_22
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 527
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729cbbc7306e33630800000000000000
+      internalID: 3905718204512323879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_23
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 476
+        width: 133
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6bb92506f7ed580800000000000000
+      internalID: -8800456570155845966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_24
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 512
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061eb9a670b1dfbd0800000000000000
+      internalID: -2594888091628215968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_25
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 512
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b7142c589cc0480800000000000000
+      internalID: -8931542384655631489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_26
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 512
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41754556ea3fc8bd0800000000000000
+      internalID: -2626456552313956588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_27
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 512
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9586ad11a7ed0e910800000000000000
+      internalID: 1864734861598287961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_28
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 512
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f855f77e5a10cf8c0800000000000000
+      internalID: -3964291759927765617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_29
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 512
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7839d5be131f7a5c0800000000000000
+      internalID: -4204126530422598777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_30
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 318
+        width: 95
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f53ea8dad8390900800000000000000
+      internalID: 651114133721069048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_31
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 318
+        width: 95
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d89a75d732f7e850800000000000000
+      internalID: 6406355316576524496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_32
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 152
+        width: 84
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2502a78892471ade0800000000000000
+      internalID: -1323649093738028974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_33
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 318
+        width: 95
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589cc778befc8b7e0800000000000000
+      internalID: -1749419844736071291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_34
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 318
+        width: 95
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3053d3a0d6456e30800000000000000
+      internalID: 4496077664914985018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 318
+        width: 95
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867acc69012817c00800000000000000
+      internalID: 896640808584521576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_36
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 318
+        width: 95
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec1e2f89541850e0800000000000000
+      internalID: -2281050836376347411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_37
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 152
+        width: 95
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092e211ca890dbc20800000000000000
+      internalID: 3223743399816520336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_38
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 163
+        width: 120
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f30f9f163b606490800000000000000
+      internalID: -7755080678129073159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_39
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 152
+        width: 71
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd58ffc9cbeb9c30800000000000000
+      internalID: 4367343515675942396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_40
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 160
+        width: 84
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c040a81eb278740800000000000000
+      internalID: 5154136546231979151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_41
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 152
+        width: 78
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689247f4dedcacb00800000000000000
+      internalID: 849717898836715910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_42
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 160
+        width: 73
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6fa5e45522fef00800000000000000
+      internalID: 1148174179784914662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_43
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 133
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d66e2dc109187130800000000000000
+      internalID: 3564626600591779540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_44
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 52
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f528642c6f4c204b0800000000000000
+      internalID: -5475597632828702113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_45
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 52
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973525150fb3ccae0800000000000000
+      internalID: -1527780270242901127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_46
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 52
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107461f0aedbc5a30800000000000000
+      internalID: 4205444965030315777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_47
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1
+        width: 148
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340d36debce0f99f0800000000000000
+      internalID: -459632367944609725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_48
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 52
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf14da8ff22b9550800000000000000
+      internalID: 6168562595555188667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_49
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 52
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d727c5a759e676ad0800000000000000
+      internalID: -2709075062558002563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_50
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1
+        width: 157
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b557d5081bb0e3dc0800000000000000
+      internalID: -3657472990387538597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_51
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 52
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca5057b83aa131e0800000000000000
+      internalID: -2219805980746556728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_52
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1
+        width: 97
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c017846e32f93780800000000000000
+      internalID: -8702658455128305471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_53
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1
+        width: 109
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6a86c1007b34d70800000000000000
+      internalID: 9026259289285109441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_54
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 37
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec8f684fcb416690800000000000000
+      internalID: -7610718541633843985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_55
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 37
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811853430c224a820800000000000000
+      internalID: 2928503866602651928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_56
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 37
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211c7ae4d6bb45c30800000000000000
+      internalID: 4347305618464817426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_57
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 37
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54966565d9bddda0800000000000000
+      internalID: -5918370009114569636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_58
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 37
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055e9f944878f9c10800000000000000
+      internalID: 2062516156605523280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_fighter_59
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 37
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6dbd62f46e2ea90800000000000000
+      internalID: -7286008019503294725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boss_fighter_0: -5120206463651186735
+      boss_fighter_1: -184941945603089502
+      boss_fighter_10: 6988907069791217960
+      boss_fighter_11: -8371063443820700962
+      boss_fighter_12: -2051115954631363078
+      boss_fighter_13: 2309130560063999639
+      boss_fighter_14: 1657174885768206783
+      boss_fighter_15: -2887606313383465093
+      boss_fighter_16: -5538154437654921167
+      boss_fighter_17: 1540062783090076954
+      boss_fighter_18: 3241618350981622574
+      boss_fighter_19: -2149338041502694695
+      boss_fighter_2: 713538750250010354
+      boss_fighter_20: 3374499785971963386
+      boss_fighter_21: 3459298144345513886
+      boss_fighter_22: 3905718204512323879
+      boss_fighter_23: -8800456570155845966
+      boss_fighter_24: -2594888091628215968
+      boss_fighter_25: -8931542384655631489
+      boss_fighter_26: -2626456552313956588
+      boss_fighter_27: 1864734861598287961
+      boss_fighter_28: -3964291759927765617
+      boss_fighter_29: -4204126530422598777
+      boss_fighter_3: 920291354095663279
+      boss_fighter_30: 651114133721069048
+      boss_fighter_31: 6406355316576524496
+      boss_fighter_32: -1323649093738028974
+      boss_fighter_33: -1749419844736071291
+      boss_fighter_34: 4496077664914985018
+      boss_fighter_35: 896640808584521576
+      boss_fighter_36: -2281050836376347411
+      boss_fighter_37: 3223743399816520336
+      boss_fighter_38: -7755080678129073159
+      boss_fighter_39: 4367343515675942396
+      boss_fighter_4: 4436914851522698938
+      boss_fighter_40: 5154136546231979151
+      boss_fighter_41: 849717898836715910
+      boss_fighter_42: 1148174179784914662
+      boss_fighter_43: 3564626600591779540
+      boss_fighter_44: -5475597632828702113
+      boss_fighter_45: -1527780270242901127
+      boss_fighter_46: 4205444965030315777
+      boss_fighter_47: -459632367944609725
+      boss_fighter_48: 6168562595555188667
+      boss_fighter_49: -2709075062558002563
+      boss_fighter_5: 3024983329764684837
+      boss_fighter_50: -3657472990387538597
+      boss_fighter_51: -2219805980746556728
+      boss_fighter_52: -8702658455128305471
+      boss_fighter_53: 9026259289285109441
+      boss_fighter_54: -7610718541633843985
+      boss_fighter_55: 2928503866602651928
+      boss_fighter_56: 4347305618464817426
+      boss_fighter_57: -5918370009114569636
+      boss_fighter_58: 2062516156605523280
+      boss_fighter_59: -7286008019503294725
+      boss_fighter_6: 3921217555266851867
+      boss_fighter_7: 2808899606686122610
+      boss_fighter_8: -6116551100258325068
+      boss_fighter_9: -505272719638088878
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
